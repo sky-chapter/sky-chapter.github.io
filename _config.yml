@@ -23,6 +23,15 @@ collections:
   weekly:
     output: true
     permalink: /weekly/:name/
+  monthly:
+    output: true
+    permalink: /monthly/:name/
+  quarterly:
+    output: true
+    permalink: /quarterly/:name/
+  yearly:
+    output: true
+    permalink: /yearly/:name/
 
 defaults:
   - scope:
@@ -40,6 +49,21 @@ defaults:
       type: "weekly"
     values:
       layout: "weekly"
+  - scope:
+      path: ""
+      type: "monthly"
+    values:
+      layout: "monthly"
+  - scope:
+      path: ""
+      type: "quarterly"
+    values:
+      layout: "quarterly"
+  - scope:
+      path: ""
+      type: "yearly"
+    values:
+      layout: "yearly"
 
 # Google integrations:
 # Search Console: подтверждение уже настроено на уровне домена sok.lv.
