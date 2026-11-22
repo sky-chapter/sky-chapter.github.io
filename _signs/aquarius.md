@@ -2,17 +2,15 @@
 layout: sign
 sign_name: Aquarius
 mask: "the inventor"
-date: 2026-11-22
+date: 2026-11-23
 og_image: /assets/og-aquarius.png
 ---
 
-- **Started as:** yesterday — an idea; a draft of the future.
-- **On the road:** your ruler **Saturn is retrograde** in your 3rd house (words, links, neighbours) — messages need rereading. The Moon beside him: a busy stream. Mars–Jupiter in your 7th: a partner's spark; [Pluto](/notes/retrograde) keeps rebuilding your sign.
-- **Turning into:** tomorrow the Moon in Taurus (4th house) — home and back room.
-<details class="profi">
-<summary>Profi (tap)</summary>
+- **Started as:** the draft finally looked like a door.
+- **On the road:** [Pluto](/notes/retrograde) keeps rebuilding your sign while your ruler Saturn backs up in your 3rd — rewrite once, not ten times; the season flip opens your 11th: friends, groups, the long wish.
+- **Turning into:** the Moon in your 4th — home base, then the group chat.
+<details class="profi"><summary>Profi (tap)</summary>
 
-Saturn 8°15′ Aries R (3rd, ruler) · Moon 23°59′ Aries (3rd) · Pluto 3°23′ Aquarius (1st).
-
+Pluto 3°25′ Aquarius (1st) · Saturn 8°13′ Aries R (3rd, ruler) · Sun 0°42′ Sagittarius (11th) · Moon 8°19′ Taurus (4th).
 </details>
-- **Story state:** `reread before send → the draft waits`.
+- **Story state:** `draft = door → open it for one friend first`.

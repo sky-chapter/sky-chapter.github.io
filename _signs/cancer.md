@@ -2,17 +2,15 @@
 layout: sign
 sign_name: Cancer
 mask: "the keeper of the hearth"
-date: 2026-11-22
+date: 2026-11-23
 og_image: /assets/og-cancer.png
 ---
 
-- **Started as:** yesterday — anxiety; nerves on the surface.
-- **On the road:** your ruler **the Moon** is in your 4th house, almost full — feelings fill the rooms. But she faces Venus: give and take get negotiated out loud. Mars–Jupiter in your 2nd: spend with both eyes open.
-- **Turning into:** tomorrow the Moon in Taurus (2nd house) — food, cash, footing.
-<details class="profi">
-<summary>Profi (tap)</summary>
+- **Started as:** the home held; now the mood wants a window open.
+- **On the road:** your ruler **the Moon** is almost full in your 4th house — feelings fill the rooms; but she faces Mercury in your 5th: words can spill over art or kids.
+- **Turning into:** the season flip turns your 6th — routine, health, small repairs.
+<details class="profi"><summary>Profi (tap)</summary>
 
-Moon 23°59′ Aries (4th, ruler) · Mars+Jupiter Leo (2nd).
-
+Moon 8°19′ Taurus (4th, ruler) · Mercury 11°22′ Scorpio (5th) · Sun 0°42′ Sagittarius (6th).
 </details>
-- **Story state:** `hearth first → talk before you spend`.
+- **Story state:** `windows open → air the room gently`.

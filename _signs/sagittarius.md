@@ -2,17 +2,15 @@
 layout: sign
 sign_name: Sagittarius
 mask: "the traveler"
-date: 2026-11-22
+date: 2026-11-23
 og_image: /assets/og-sagittarius.png
 ---
 
-- **Started as:** yesterday — the road; something big past the turn.
-- **On the road:** your ruler **Jupiter** conjuncts Mars in your 9th house (distance, learning, belief) — a big yes with homework attached. The Moon in your 5th: play, kids, romance; the Sun in your 12th: keep the rear quiet.
-- **Turning into:** tomorrow the Moon in Taurus (6th house) — routine and work.
-<details class="profi">
-<summary>Profi (tap)</summary>
+- **Started as:** a border crossed; the air changed.
+- **On the road:** the **Sun enters your sign** — the season turns yours: bold yeses, far maps, big questions. The Moon in your 9th blesses the road; [Mars and Jupiter](/signs/leo) sit in your 12th: strength gathers behind the curtain.
+- **Turning into:** pack light; book the ticket after the next meal, not before.
+<details class="profi"><summary>Profi (tap)</summary>
 
-Jupiter 26°19′ + Mars 28°22′ Leo (9th, ruler Jupiter) · Moon 23°59′ Aries (5th).
-
+Sun 0°42′ Sagittarius (1st) · Moon 8°19′ Taurus (9th) · Mars+Jupiter Leo (12th) · Saturn 8°13′ Aries R.
 </details>
-- **Story state:** `big horizon → prepare the bridgehead`.
+- **Story state:** `border crossed → the year's last map opens`.

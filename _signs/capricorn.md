@@ -2,17 +2,15 @@
 layout: sign
 sign_name: Capricorn
 mask: "the builder"
-date: 2026-11-22
+date: 2026-11-23
 og_image: /assets/og-capricorn.png
 ---
 
-- **Started as:** yesterday — a plan; stairs one by one.
-- **On the road:** your ruler **Saturn is retrograde** in Aries (4th house): paint smell, a box that won't close, family files. The Moon joins him — mood tied to home. Across the lane, [Mars and Jupiter](/signs/leo) dive into your 8th: deep talk, shared money.
-- **Turning into:** tomorrow the Moon enters Taurus (5th house) — the room where the music is already on.
-<details class="profi">
-<summary>Profi (tap)</summary>
+- **Started as:** stairs, one by one — now the staircase has a view.
+- **On the road:** the Sun **trines your ruler Saturn** (retrograde in your 4th) — the slow repair becomes strategy; the Moon in your 5th asks for play, the Mars–Jupiter pair works your 8th: shared money moves.
+- **Turning into:** finish the old thing quietly — then dance.
+<details class="profi"><summary>Profi (tap)</summary>
 
-Saturn 8°15′ Aries R (4th, ruler) · Moon 23°59′ Aries (4th) · Mars+Jupiter Leo (8th).
-
+Sun 0°42′ Sagittarius ([trine](/notes/aspects) Saturn, orb 7°31′) · Saturn 8°13′ Aries R (4th, ruler) · Moon 8°19′ Taurus (5th) · Mars+Jupiter Leo (8th).
 </details>
-- **Story state:** `Saturn R pressing home → finish the old thing quietly`.
+- **Story state:** `quiet repair becomes plan → then the room with music`.

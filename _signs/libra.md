@@ -2,17 +2,15 @@
 layout: sign
 sign_name: Libra
 mask: "the negotiator"
-date: 2026-11-22
+date: 2026-11-23
 og_image: /assets/og-libra.png
 ---
 
-- **Started as:** yesterday — someone else's rhythm; the scales swung.
-- **On the road:** your ruler **Venus** stands in your sign and takes the Moon's exact opposition — a relationship conversation that can tip either way, but honest. Mars–Jupiter in your 11th: friends turn up the heat.
-- **Turning into:** tomorrow the Moon in Taurus (8th house) — closeness and shared resources.
-<details class="profi">
-<summary>Profi (tap)</summary>
+- **Started as:** the scales found their level.
+- **On the road:** your ruler **Venus** in your sign takes two sextiles — charm and luck cooperate; the Moon in your 7th makes “we” the word of the day; the season flip brings your 3rd: calls, messages, short roads.
+- **Turning into:** one talk could tip a month — choose it well.
+<details class="profi"><summary>Profi (tap)</summary>
 
-Venus 24°05′ Libra (1st, ruler) · Moon 23°59′ Aries (7th, opposition orb 0°09′).
-
+Venus 24°24′ Libra (1st, ruler) · Mars+Jupiter Leo ([sextile](/notes/aspects)) · Moon 8°19′ Taurus (7th) · Sun 0°42′ Sagittarius (3rd).
 </details>
-- **Story state:** `both sides, no loser → say the true thing`.
+- **Story state:** `level scales → one true talk`.

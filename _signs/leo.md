@@ -2,17 +2,15 @@
 layout: sign
 sign_name: Leo
 mask: "the star"
-date: 2026-11-22
+date: 2026-11-23
 og_image: /assets/og-leo.png
 ---
 
-- **Started as:** yesterday — a spark; seen from far away.
-- **On the road:** [Mars and Jupiter stand in your sign](/signs/leo) (1st house) while the Moon trines them — your scene, your magnetism. Your ruler the Sun pressures from the 4th: home duties pace the glow.
-- **Turning into:** tomorrow the Moon in Taurus (8th house) — deeper, quieter, shared resources.
-<details class="profi">
-<summary>Profi (tap)</summary>
+- **Started as:** the spotlight returned; enjoy it without overacting.
+- **On the road:** [Mars and Jupiter still stand in your sign](/signs/leo) (1st house) — courage and luck hold hands; the Sun's square from your 5th warns: don't gamble the glow on drama.
+- **Turning into:** the season flip moves your 4th — family, roots, a quiet corner.
+<details class="profi"><summary>Profi (tap)</summary>
 
-Mars 28°22′ + Jupiter 26°19′ Leo (1st) · Sun 29°41′ Scorpio (4th, ruler) square.
-
+Mars 28°47′ + Jupiter 26°23′ Leo (1st) · Sun 0°42′ Sagittarius (5th, [square](/notes/aspects)) · Moon 8°19′ Taurus (9th).
 </details>
-- **Story state:** `spotlight meets duty → dim the glare a notch`.
+- **Story state:** `glow with both hands → don't feed the drama`.

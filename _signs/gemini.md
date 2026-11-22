@@ -2,17 +2,15 @@
 layout: sign
 sign_name: Gemini
 mask: "the signal-runner"
-date: 2026-11-22
+date: 2026-11-23
 og_image: /assets/og-gemini.png
 ---
 
-- **Started as:** yesterday — a question; words outran thoughts.
-- **On the road:** your ruler [Mercury](/notes/retrograde) sits in Scorpio (6th house) — you dig for the real numbers. The Moon in your 11th lights the group chat; Mars–Jupiter in your 3rd: a message that matters.
-- **Turning into:** tomorrow the Moon in Taurus (2nd house) — the talk turns into money.
-<details class="profi">
-<summary>Profi (tap)</summary>
+- **Started as:** a crowded inbox; three versions of one story.
+- **On the road:** your ruler [Uranus is retrograde in your sign](/notes/retrograde) — reread before you send; the Moon in your 3rd keeps the wires warm; the Moon opposes [Mercury](/notes/aspects) in your 9th: someone talks past you.
+- **Turning into:** the season flip lights your 7th — one partner, one conversation that matters.
+<details class="profi"><summary>Profi (tap)</summary>
 
-Mercury 10°14′ Scorpio (6th) · Moon 23°59′ Aries (11th) · Mars+Jupiter Leo (3rd).
-
+Uranus 3°48′ Gemini R (1st, ruler) · Moon 8°19′ Taurus (3rd) · Mercury 11°22′ Scorpio (9th, [opposition](/notes/aspects) Moon orb 3°03′) · Sun 0°42′ Sagittarius (7th).
 </details>
-- **Story state:** `noise vs signal → one important message`.
+- **Story state:** `three stories → keep the one that is true`.

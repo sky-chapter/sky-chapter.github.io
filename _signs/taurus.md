@@ -2,17 +2,15 @@
 layout: sign
 sign_name: Taurus
 mask: "the gardener"
-date: 2026-11-22
+date: 2026-11-23
 og_image: /assets/og-taurus.png
 ---
 
-- **Started as:** yesterday — a pause; the body asked for ground.
-- **On the road:** your ruler [Venus](/notes/retrograde) is exactly under the Moon's spotlight — relationships and money get loud and clear. Mars and Jupiter meet in your 4th house: the home gets a sudden project.
-- **Turning into:** tonight the Moon enters your sign (1st house) — you step onto the stage.
-<details class="profi">
-<summary>Profi (tap)</summary>
+- **Started as:** the ground holds; the body exhales.
+- **On the road:** the **Moon is in your sign, 96.2% full** — your day glows quietly; your ruler [Venus](/notes/retrograde) takes warm sextiles from [Mars and Jupiter](/signs/leo): people lean in, money nudges.
+- **Turning into:** the Sun's new season (your 8th house) turns to shared depths — one honest talk.
+<details class="profi"><summary>Profi (tap)</summary>
 
-Venus 24°05′ Libra (1st house, ruler) · Moon 23°59′ Aries (12th) · Mars+Jupiter Leo (4th).
-
+Moon 8°19′ Taurus (1st, 96.2%) · Venus 24°24′ Libra (ruler) · Mars+Jupiter Leo (sextile) · Sun 0°42′ Sagittarius (8th).
 </details>
-- **Story state:** `waiting for the Moon → make the wish list`.
+- **Story state:** `full moon in the garden → harvest what is ripe`.
