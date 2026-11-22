@@ -20,6 +20,9 @@ collections:
   notes:
     output: true
     permalink: /notes/:name/
+  weekly:
+    output: true
+    permalink: /weekly/:name/
 
 defaults:
   - scope:
@@ -32,6 +35,11 @@ defaults:
       type: "signs"
     values:
       layout: "sign"
+  - scope:
+      path: ""
+      type: "weekly"
+    values:
+      layout: "weekly"
 
 # Google integrations:
 # Search Console: подтверждение уже настроено на уровне домена sok.lv.
