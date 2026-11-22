@@ -2,7 +2,8 @@
 layout: default
 title: Today
 ---
-{% assign ep = site.daily.first %}
+{% assign eps = site.daily | sort: "date" %}
+{% assign ep = eps.last %}
 <section class="board">
   <p class="eyebrow">SKY CHAPTER · {{ ep.date | date: "%B %-d, %Y" }} · snapshot 00:00 UTC</p>
   <h1>{{ ep.title }}</h1>
