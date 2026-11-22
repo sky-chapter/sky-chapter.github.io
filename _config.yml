@@ -3,6 +3,7 @@ description: The sky, one chapter a day — real planetary math, plain-English E
 url: https://skychapter.sok.lv
 baseurl: ""
 lang: en
+future: true          # эпизод даты D публикуется за день — Jekyll не должен прятать его
 markdown: kramdown
 permalink: pretty
 
