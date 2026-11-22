@@ -3,6 +3,7 @@ layout: default
 ---
 <article class="episode">
   <p class="meta">{{ page.date | date: "%B %-d, %Y" }} · snapshot 00:00 UTC</p>
+  {% if page.season_thread %}<p class="season-thread"><strong>Season thread</strong> — {{ page.season_thread }}</p>{% endif %}
   {{ content }}
 </article>
 <script type="application/ld+json">

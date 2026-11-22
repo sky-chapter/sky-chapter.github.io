@@ -9,6 +9,7 @@ title: Today
   <h1>{{ ep.title }}</h1>
   <p class="sky-strip">{{ ep.cold_open }}</p>
   <p class="canvas">{{ ep.canvas }}</p>
+  {% if ep.season_thread %}<p class="season-thread"><strong>Season thread</strong> — {{ ep.season_thread }}</p>{% endif %}
   <p><a class="cta" href="{{ ep.url | relative_url }}">Read the chapter →</a></p>
 </section>
 

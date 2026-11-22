@@ -36,3 +36,5 @@ ul{list-style:none;padding:0}
 
 .index-list{list-style:none;padding:0;margin:1.5rem 0}
 .index-list li{padding:.6rem 0;border-bottom:1px solid rgba(255,255,255,.08)}
+
+.season-thread{border-left:3px solid var(--gold);padding:.7rem 1rem;background:rgba(232,180,90,.06);margin:1rem 0}
