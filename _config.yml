@@ -32,9 +32,10 @@ defaults:
     values:
       layout: "sign"
 
-# Google integrations (fill in):
-# google_site_verification: "CODE_FROM_SEARCH_CONSOLE"
-# google_analytics: "G-XXXXXXXXXX"
+# Google integrations:
+# Search Console: подтверждение уже настроено на уровне домена sok.lv.
+google_tag_manager: "G-TJ0Y7GCCC3"
+# google_site_verification: "CODE_FROM_SEARCH_CONSOLE"   # не нужен, SC по домену
 
 exclude:
   - Gemfile

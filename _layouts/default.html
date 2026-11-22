@@ -13,9 +13,14 @@
   {"@context":"https://schema.org","@type":"WebSite","name":"Sky Chapter","url":"https://skychapter.sok.lv","description":"The sky, one chapter a day — real planetary math, plain-English ELI5.","inLanguage":"en"}
   </script>
   {% if site.google_site_verification %}<meta name="google-site-verification" content="{{ site.google_site_verification }}">{% endif %}
-  {% if site.google_analytics %}
-  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
-  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','{{ site.google_analytics }}');</script>
+  {% if site.google_tag_manager %}
+  <!-- Google Tag Manager (shared across sok.lv) -->
+  <script async src="https://www.googletagmanager.com/gtm.js?id={{ site.google_tag_manager }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+  </script>
   {% endif %}
   {% seo %}
 </head>
