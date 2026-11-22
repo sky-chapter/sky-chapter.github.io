@@ -1,0 +1,15 @@
+---
+permalink: /today/
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex">
+  <link rel="canonical" href="/">
+  <meta http-equiv="refresh" content="0; url=/">
+  <title>Sky Chapter — today's chapter</title>
+</head>
+<body><p>Today's chapter lives at <a href="/">skychapter.sok.lv</a>.</p></body>
+</html>

@@ -33,3 +33,6 @@ ul{list-style:none;padding:0}
 .foot{border-top:1px solid var(--line);color:var(--muted);font-size:.85rem;padding:1rem 1.25rem;text-align:center}
 .cta{display:inline-block;margin-top:.5rem;padding:.6rem 1rem;border:1px solid var(--gold);border-radius:.5rem;color:var(--gold);text-decoration:none}
 @media(max-width:640px){.signs-index ul{columns:2}}
+
+.index-list{list-style:none;padding:0;margin:1.5rem 0}
+.index-list li{padding:.6rem 0;border-bottom:1px solid rgba(255,255,255,.08)}
