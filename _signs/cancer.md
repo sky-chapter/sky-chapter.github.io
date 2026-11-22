@@ -3,6 +3,7 @@ layout: sign
 sign_name: Cancer
 mask: "the keeper of the hearth"
 date: 2026-11-22
+og_image: /assets/og-cancer.png
 ---
 
 - **Started as:** yesterday — anxiety; nerves on the surface.

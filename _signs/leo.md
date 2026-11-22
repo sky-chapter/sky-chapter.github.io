@@ -3,6 +3,7 @@ layout: sign
 sign_name: Leo
 mask: "the star"
 date: 2026-11-22
+og_image: /assets/og-leo.png
 ---
 
 - **Started as:** yesterday — a spark; seen from far away.

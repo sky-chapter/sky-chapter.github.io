@@ -3,6 +3,7 @@ layout: sign
 sign_name: Gemini
 mask: "the signal-runner"
 date: 2026-11-22
+og_image: /assets/og-gemini.png
 ---
 
 - **Started as:** yesterday — a question; words outran thoughts.

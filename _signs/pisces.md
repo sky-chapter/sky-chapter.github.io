@@ -3,6 +3,7 @@ layout: sign
 sign_name: Pisces
 mask: "the dreamer"
 date: 2026-11-22
+og_image: /assets/og-pisces.png
 ---
 
 - **Started as:** yesterday — fog; edges washed off.

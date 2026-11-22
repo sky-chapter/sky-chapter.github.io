@@ -3,6 +3,7 @@ layout: sign
 sign_name: Virgo
 mask: "the archivist"
 date: 2026-11-22
+og_image: /assets/og-virgo.png
 ---
 
 - **Started as:** yesterday — a list; wanted order.

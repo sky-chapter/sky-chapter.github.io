@@ -3,6 +3,7 @@ layout: sign
 sign_name: Aries
 mask: "the racer"
 date: 2026-11-22
+og_image: /assets/og-aries.png
 ---
 
 - **Started as:** yesterday — a burst of speed; now the Moon (90.6% lit) is high in your sign, but **exactly opposite [Venus](/signs/libra)** — the throttle meets the handbrake.

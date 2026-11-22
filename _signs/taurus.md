@@ -3,6 +3,7 @@ layout: sign
 sign_name: Taurus
 mask: "the gardener"
 date: 2026-11-22
+og_image: /assets/og-taurus.png
 ---
 
 - **Started as:** yesterday — a pause; the body asked for ground.

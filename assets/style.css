@@ -24,6 +24,9 @@ details.profi summary{cursor:pointer;color:var(--gold);font-weight:600}
 .sign-grid li{padding:.35rem 0;border-bottom:1px solid var(--line)}
 .hook{margin-top:2rem;padding:1rem;background:var(--panel);border:1px solid var(--line);border-radius:.5rem}
 .ritual{color:var(--moon)}
+.pager{display:flex;justify-content:space-between;gap:1rem;margin-top:2rem;padding-top:1rem;border-top:1px solid var(--line)}
+.share{margin:1rem 0}
+a:focus-visible,summary:focus-visible{outline:2px solid var(--moon);outline-offset:2px}
 .profi{background:var(--panel);border:1px solid var(--line);border-radius:.5rem;padding:.5rem .8rem;font-size:.9rem}
 ul{list-style:none;padding:0}
 .signs-index ul{columns:3}

@@ -3,6 +3,7 @@ layout: sign
 sign_name: Aquarius
 mask: "the inventor"
 date: 2026-11-22
+og_image: /assets/og-aquarius.png
 ---
 
 - **Started as:** yesterday — an idea; a draft of the future.

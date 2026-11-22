@@ -3,6 +3,7 @@ layout: sign
 sign_name: Scorpio
 mask: "the investigator"
 date: 2026-11-22
+og_image: /assets/og-scorpio.png
 ---
 
 - **Started as:** yesterday — depth; you could see the bottom.

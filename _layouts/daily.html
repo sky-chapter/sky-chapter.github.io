@@ -5,3 +5,6 @@ layout: default
   <p class="meta">{{ page.date | date: "%B %-d, %Y" }} · snapshot 00:00 UTC</p>
   {{ content }}
 </article>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Article","headline":{{ page.title | jsonify }},"datePublished":"{{ page.date | date_to_xmlschema }}","author":{"@type":"Organization","name":"Sky Chapter"},"url":"{{ page.url | absolute_url }}"}
+</script>

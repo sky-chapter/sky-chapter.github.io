@@ -3,6 +3,7 @@ layout: sign
 sign_name: Libra
 mask: "the negotiator"
 date: 2026-11-22
+og_image: /assets/og-libra.png
 ---
 
 - **Started as:** yesterday — someone else's rhythm; the scales swung.

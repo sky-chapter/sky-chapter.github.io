@@ -3,7 +3,15 @@ layout: default
 ---
 <article class="sign-page">
   <h1>{{ page.sign_name }} <span class="mask">· {{ page.mask }}</span></h1>
-  <p class="meta">{{ page.date | date: "%B %-d, %Y" }}</p>
+  <p class="meta">{{ page.date | date: "%B %-d, %Y" }} · <a href="{{ '/archive/' | relative_url }}">Archive</a></p>
   {{ content }}
-  <p class="back"><a href="{{ '/archive/' | relative_url }}">← Back to all chapters</a></p>
+  <p class="share"><a href="https://t.me/share/url?url={{ site.url | append: page.url | uri_escape }}&text={{ page.title | default: page.sign_name | uri_escape }}" target="_blank" rel="noopener">Share on Telegram</a></p>
+
+  {% assign order = "aries,taurus,gemini,cancer,leo,virgo,libra,scorpio,sagittarius,capricorn,aquarius,pisces" | split: "," %}
+  {% assign cur = -1 %}{% for s in order %}{% if s == page.slug %}{% assign cur = forloop.index0 %}{% endif %}{% endfor %}
+  <nav class="pager">
+    {% if cur > 0 %}{% assign p = cur | minus: 1 %}{% for s in order %}{% if forloop.index0 == p %}<a class="prev" href="/signs/{{ s }}/">← {{ s | capitalize }}</a>{% endif %}{% endfor %}{% else %}<span></span>{% endif %}
+    {% assign last = order.size | minus: 1 %}
+    {% if cur < last %}{% assign n = cur | plus: 1 %}{% for s in order %}{% if forloop.index0 == n %}<a class="next" href="/signs/{{ s }}/">{{ s | capitalize }} →</a>{% endif %}{% endfor %}{% endif %}
+  </nav>
 </article>

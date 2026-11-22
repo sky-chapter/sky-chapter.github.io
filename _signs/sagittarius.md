@@ -3,6 +3,7 @@ layout: sign
 sign_name: Sagittarius
 mask: "the traveler"
 date: 2026-11-22
+og_image: /assets/og-sagittarius.png
 ---
 
 - **Started as:** yesterday — the road; something big past the turn.

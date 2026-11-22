@@ -3,6 +3,7 @@ layout: sign
 sign_name: Capricorn
 mask: "the builder"
 date: 2026-11-22
+og_image: /assets/og-capricorn.png
 ---
 
 - **Started as:** yesterday — a plan; stairs one by one.
