@@ -6,5 +6,5 @@ layout: default
   {{ content }}
 </article>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"Article","headline":{{ page.title | jsonify }},"datePublished":"{{ page.date | date_to_xmlschema }}","author":{"@type":"Organization","name":"Sky Chapter"},"url":"{{ page.url | absolute_url }}"}
+{"@context":"https://schema.org","@type":"Article","headline":{{ page.title | jsonify }},"image":{{ page.og_image | default: '/assets/og.png' | absolute_url | jsonify }},"datePublished":"{{ page.date | date_to_xmlschema }}","dateModified":"{{ page.date | date_to_xmlschema }}","author":{"@type":"Organization","name":"Sky Chapter","url":"https://skychapter.sok.lv"},"publisher":{"@type":"Organization","name":"Sky Chapter"},"mainEntityOfPage":{"@type":"WebPage","@id":"{{ page.url | absolute_url }}"},"inLanguage":"en"}
 </script>

@@ -32,6 +32,10 @@ defaults:
     values:
       layout: "sign"
 
+# Google integrations (fill in):
+# google_site_verification: "CODE_FROM_SEARCH_CONSOLE"
+# google_analytics: "G-XXXXXXXXXX"
+
 exclude:
   - Gemfile
   - Gemfile.lock
