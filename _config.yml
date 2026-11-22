@@ -67,7 +67,9 @@ defaults:
 
 # Google integrations:
 # Search Console: подтверждение уже настроено на уровне домена sok.lv.
-google_tag_manager: "G-TJ0Y7GCCC3"
+# GA4 Measurement ID (Google tag) — общий для sok.lv
+google_analytics: "G-TJ0Y7GCCC3"
+# google_tag_manager: "GTM-XXXXXXX"   # если позже появится контейнер GTM — gtm.js
 # google_site_verification: "CODE_FROM_SEARCH_CONSOLE"   # не нужен, SC по домену
 
 exclude:
