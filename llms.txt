@@ -14,5 +14,5 @@
 ## Glossary
 - [Houses](https://skychapter.sok.lv/notes/houses/) · [Aspects](https://skychapter.sok.lv/notes/aspects/) · [Retrograde](https://skychapter.sok.lv/notes/retrograde/) · [Orb](https://skychapter.sok.lv/notes/orb/)
 
-## Feeds
-- [RSS](https://skychapter.sok.lv/feed.xml)
+## Explore
+- [llms.txt](https://skychapter.sok.lv/llms.txt) · [Sitemap](https://skychapter.sok.lv/sitemap.xml)
