@@ -6,6 +6,12 @@
   <title>{{ page.title | default: site.title }} | {{ site.title }}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | truncate: 155 }}">
   <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+  {% assign og_image = page.og_image | default: '/assets/og.png' %}
+  <meta property="og:image" content="{{ og_image | absolute_url }}">
+  <meta name="twitter:image" content="{{ og_image | absolute_url }}">
+  <script type="application/ld+json">
+  {"@context":"https://schema.org","@type":"WebSite","name":"Sky Chapter","url":"https://skychapter.sok.lv","description":"The sky, one chapter a day — real planetary math, plain-English ELI5."}
+  </script>
   {% seo %}
 </head>
 <body>

@@ -14,6 +14,16 @@ h1,h2{line-height:1.2}
 .meta{color:var(--muted);font-size:.9rem}
 .mask{color:var(--moon);font-weight:400}
 .episode h2{margin-top:2rem;border-bottom:1px solid var(--line);padding-bottom:.4rem}
+details.profi{background:var(--panel);border:1px solid var(--line);border-radius:.5rem;padding:.5rem .8rem;margin:.8rem 0;font-size:.9rem}
+details.profi summary{cursor:pointer;color:var(--gold);font-weight:600}
+.board{padding:1rem 0 2rem;border-bottom:1px solid var(--line)}
+.eyebrow{color:var(--gold);letter-spacing:.12em;font-size:.8rem;text-transform:uppercase}
+.sky-strip{font-size:1.3rem;line-height:1.45}
+.canvas{color:var(--muted)}
+.sign-grid ul{columns:2;gap:1rem}
+.sign-grid li{padding:.35rem 0;border-bottom:1px solid var(--line)}
+.hook{margin-top:2rem;padding:1rem;background:var(--panel);border:1px solid var(--line);border-radius:.5rem}
+.ritual{color:var(--moon)}
 .profi{background:var(--panel);border:1px solid var(--line);border-radius:.5rem;padding:.5rem .8rem;font-size:.9rem}
 ul{list-style:none;padding:0}
 .signs-index ul{columns:3}

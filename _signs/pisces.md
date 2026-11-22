@@ -8,7 +8,12 @@ date: 2026-11-22
 - **Started as:** yesterday — fog; edges washed off.
 - **On the road:** your ruler **Neptune is retrograde** in your sign — the fog thickens; hold the schedule. The Moon in your 2nd: money, food, body. Jupiter and Mars burn in your 6th: work boils.
 - **Turning into:** tomorrow the Moon in Taurus (3rd house) — talks and road notes.
-- **Profi (tap):** Neptune 1°44′ Pisces R (1st) · Jupiter+Mars Leo (6th, ruler Jupiter) · Moon 23°59′ Aries (2nd).
+<details class="profi">
+<summary>Profi (tap)</summary>
+
+Neptune 1°44′ Pisces R (1st) · Jupiter+Mars Leo (6th, ruler Jupiter) · Moon 23°59′ Aries (2nd).
+
+</details>
 - **Story state:** `fog outside → the schedule is the shore`.
 
 ---

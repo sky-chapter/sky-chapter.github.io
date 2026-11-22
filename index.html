@@ -4,19 +4,24 @@ title: Today
 ---
 {% assign ep = site.daily.first %}
 <section class="board">
-  <h1>Today's chapter</h1>
-  {% if ep %}
-    <p class="meta">{{ ep.date | date: "%B %-d, %Y" }} — {{ ep.title }}</p>
-    <p><a class="cta" href="{{ ep.url | relative_url }}">Read the chapter →</a></p>
-  {% else %}
-    <p>The first chapter is being written.</p>
-  {% endif %}
+  <p class="eyebrow">SKY CHAPTER · {{ ep.date | date: "%B %-d, %Y" }} · snapshot 00:00 UTC</p>
+  <h1>{{ ep.title }}</h1>
+  <p class="sky-strip">{{ ep.cold_open }}</p>
+  <p class="canvas">{{ ep.canvas }}</p>
+  <p><a class="cta" href="{{ ep.url | relative_url }}">Read the chapter →</a></p>
 </section>
-<section class="signs-index">
-  <h2>The twelve</h2>
+
+<section class="sign-grid">
+  <h2>What changed — the twelve today</h2>
   <ul>
     {% for s in site.signs %}
-      <li><a href="{{ s.url | relative_url }}">{{ s.sign_name }}</a></li>
+      <li><a href="{{ s.url | relative_url }}">{{ s.sign_name }}</a> <span class="mask">{{ s.mask }}</span></li>
     {% endfor %}
   </ul>
+</section>
+
+<section class="hook">
+  <h2>Tomorrow</h2>
+  <p>{{ ep.hook }}</p>
+  <p class="ritual">Tonight check-in · {{ ep.tonight }}</p>
 </section>
