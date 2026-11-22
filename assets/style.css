@@ -1,0 +1,22 @@
+:root{
+  --bg:#08090a; --panel:#0f1011; --line:rgba(255,255,255,.08);
+  --txt:#e8e6e3; --muted:#9aa0a8;
+  --gold:#e8b45a; --moon:#a8c2ff; --accent:#e8b45a;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--txt);font:16px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif}
+a{color:var(--moon)}
+.top{display:flex;justify-content:space-between;align-items:center;padding:1rem 1.25rem;border-bottom:1px solid var(--line);position:sticky;top:0;background:rgba(8,9,10,.9)}
+.brand{font-weight:700;letter-spacing:.18em;color:var(--gold);text-decoration:none}
+nav a{margin-left:1rem;color:var(--muted);text-decoration:none}
+main{max-width:820px;margin:0 auto;padding:1.5rem 1.25rem}
+h1,h2{line-height:1.2}
+.meta{color:var(--muted);font-size:.9rem}
+.mask{color:var(--moon);font-weight:400}
+.episode h2{margin-top:2rem;border-bottom:1px solid var(--line);padding-bottom:.4rem}
+.profi{background:var(--panel);border:1px solid var(--line);border-radius:.5rem;padding:.5rem .8rem;font-size:.9rem}
+ul{list-style:none;padding:0}
+.signs-index ul{columns:3}
+.foot{border-top:1px solid var(--line);color:var(--muted);font-size:.85rem;padding:1rem 1.25rem;text-align:center}
+.cta{display:inline-block;margin-top:.5rem;padding:.6rem 1rem;border:1px solid var(--gold);border-radius:.5rem;color:var(--gold);text-decoration:none}
+@media(max-width:640px){.signs-index ul{columns:2}}

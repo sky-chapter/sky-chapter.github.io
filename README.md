@@ -1,1 +1,0 @@
-# sky-chapter.github.io

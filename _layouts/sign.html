@@ -1,0 +1,9 @@
+---
+layout: default
+---
+<article class="sign-page">
+  <h1>{{ page.sign_name }} <span class="mask">· {{ page.mask }}</span></h1>
+  <p class="meta">{{ page.date | date: "%B %-d, %Y" }}</p>
+  {{ content }}
+  <p class="back"><a href="{{ '/archive/' | relative_url }}">← Back to all chapters</a></p>
+</article>

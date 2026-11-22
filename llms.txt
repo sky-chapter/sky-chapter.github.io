@@ -1,0 +1,18 @@
+# Sky Chapter
+
+> The sky, one chapter a day — real planetary math (JPL/skyfield), plain-English ELI5, and a continuing story across the twelve signs. New chapter drops daily at 10:00 UTC.
+
+## Core
+- [Today's chapter](https://skychapter.sok.lv/)
+- [Archive](https://skychapter.sok.lv/archive/)
+- [Methodology](https://skychapter.sok.lv/methodology/)
+
+## The twelve signs
+- [Aries](https://skychapter.sok.lv/signs/aries/) · [Taurus](https://skychapter.sok.lv/signs/taurus/) · [Gemini](https://skychapter.sok.lv/signs/gemini/) · [Cancer](https://skychapter.sok.lv/signs/cancer/) · [Leo](https://skychapter.sok.lv/signs/leo/) · [Virgo](https://skychapter.sok.lv/signs/virgo/)
+- [Libra](https://skychapter.sok.lv/signs/libra/) · [Scorpio](https://skychapter.sok.lv/signs/scorpio/) · [Sagittarius](https://skychapter.sok.lv/signs/sagittarius/) · [Capricorn](https://skychapter.sok.lv/signs/capricorn/) · [Aquarius](https://skychapter.sok.lv/signs/aquarius/) · [Pisces](https://skychapter.sok.lv/signs/pisces/)
+
+## Glossary
+- [Houses](https://skychapter.sok.lv/notes/houses/) · [Aspects](https://skychapter.sok.lv/notes/aspects/) · [Retrograde](https://skychapter.sok.lv/notes/retrograde/) · [Orb](https://skychapter.sok.lv/notes/orb/)
+
+## Feeds
+- [RSS](https://skychapter.sok.lv/feed.xml)

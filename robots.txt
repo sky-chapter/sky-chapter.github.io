@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /preview
+Disallow: /internal
+
+Sitemap: https://skychapter.sok.lv/sitemap.xml

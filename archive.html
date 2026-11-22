@@ -1,0 +1,11 @@
+---
+layout: default
+title: Archive
+permalink: /archive/
+---
+<h1>Archive</h1>
+<ul>
+{% for ep in site.daily %}
+  <li><a href="{{ ep.url | relative_url }}">{{ ep.date | date: "%Y-%m-%d" }} — {{ ep.title }}</a></li>
+{% endfor %}
+</ul>

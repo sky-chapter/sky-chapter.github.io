@@ -1,0 +1,22 @@
+---
+layout: default
+title: Today
+---
+{% assign ep = site.daily.first %}
+<section class="board">
+  <h1>Today's chapter</h1>
+  {% if ep %}
+    <p class="meta">{{ ep.date | date: "%B %-d, %Y" }} — {{ ep.title }}</p>
+    <p><a class="cta" href="{{ ep.url | relative_url }}">Read the chapter →</a></p>
+  {% else %}
+    <p>The first chapter is being written.</p>
+  {% endif %}
+</section>
+<section class="signs-index">
+  <h2>The twelve</h2>
+  <ul>
+    {% for s in site.signs %}
+      <li><a href="{{ s.url | relative_url }}">{{ s.sign_name }}</a></li>
+    {% endfor %}
+  </ul>
+</section>

@@ -1,0 +1,38 @@
+title: Sky Chapter
+description: The sky, one chapter a day — real planetary math, plain-English ELI5.
+url: https://skychapter.sok.lv
+baseurl: ""
+lang: en
+markdown: kramdown
+permalink: pretty
+
+plugins:
+  - jekyll-sitemap
+
+collections:
+  daily:
+    output: true
+    permalink: /archive/:name/
+  signs:
+    output: true
+    permalink: /signs/:name/
+  notes:
+    output: true
+    permalink: /notes/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: "daily"
+    values:
+      layout: "daily"
+  - scope:
+      path: ""
+      type: "signs"
+    values:
+      layout: "sign"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
