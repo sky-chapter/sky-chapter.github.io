@@ -89,8 +89,10 @@ h1,h2,.brand{font-family:"Fraunces",Georgia,"Times New Roman",serif;font-weight:
   .top{padding:.8rem 1rem;gap:.5rem}
   h1{font-size:clamp(1.5rem,5.4vw,2.1rem)}
   h1,h2{text-wrap:balance}
-  .brand{letter-spacing:.12em;font-size:.9rem;white-space:nowrap}
-  nav a{margin-left:.6rem;font-size:.82rem;white-space:nowrap}
+  .brand{letter-spacing:.1em;font-size:.85rem;white-space:nowrap}
+  nav{justify-content:flex-end}
+  nav a{margin-left:.7rem;font-size:.82rem;white-space:nowrap}
+  nav a:first-child{display:none} /* Today duplicates the logo/home */
   .eyebrow{letter-spacing:.07em;font-size:.72rem}
   .moon-chip{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-size:.85rem;padding:.3rem .7rem;max-width:100%}
   .wheel img{width:100%;padding:.2rem}
