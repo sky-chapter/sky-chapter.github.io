@@ -2,6 +2,7 @@
 layout: sign
 sign_name: Cancer
 glyph: "♋"
+order: 4
 mask: "the keeper of the hearth"
 date: 2026-11-23
 og_image: /assets/og-cancer.png

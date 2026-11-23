@@ -2,6 +2,7 @@
 layout: sign
 sign_name: Leo
 glyph: "♌"
+order: 5
 mask: "the star"
 date: 2026-11-23
 og_image: /assets/og-leo.png

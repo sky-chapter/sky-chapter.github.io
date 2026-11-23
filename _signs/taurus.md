@@ -2,6 +2,7 @@
 layout: sign
 sign_name: Taurus
 glyph: "♉"
+order: 2
 mask: "the gardener"
 date: 2026-11-23
 og_image: /assets/og-taurus.png

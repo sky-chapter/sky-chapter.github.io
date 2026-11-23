@@ -2,6 +2,7 @@
 layout: sign
 sign_name: Aquarius
 glyph: "♒"
+order: 11
 mask: "the inventor"
 date: 2026-11-23
 og_image: /assets/og-aquarius.png

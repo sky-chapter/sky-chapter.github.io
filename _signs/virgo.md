@@ -2,6 +2,7 @@
 layout: sign
 sign_name: Virgo
 glyph: "♍"
+order: 6
 mask: "the archivist"
 date: 2026-11-23
 og_image: /assets/og-virgo.png

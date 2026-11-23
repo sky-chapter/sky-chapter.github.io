@@ -2,6 +2,7 @@
 layout: sign
 sign_name: Scorpio
 glyph: "♏"
+order: 8
 mask: "the investigator"
 date: 2026-11-23
 og_image: /assets/og-scorpio.png

@@ -2,6 +2,7 @@
 layout: sign
 sign_name: Capricorn
 glyph: "♑"
+order: 10
 mask: "the builder"
 date: 2026-11-23
 og_image: /assets/og-capricorn.png

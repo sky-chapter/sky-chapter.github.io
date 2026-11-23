@@ -17,7 +17,8 @@ title: Today
 <section class="sign-grid">
   <h2>What changed — the twelve today</h2>
   <ul>
-    {% for s in site.signs %}
+    {% assign sg = site.signs | sort: "order" %}
+    {% for s in sg %}
       <li><a href="{{ s.url | relative_url }}"><span class="glyph">{{ s.glyph | default: "✦" }}</span><span class="sname">{{ s.sign_name }}</span></a> <span class="mask">{{ s.mask }}</span></li>
     {% endfor %}
   </ul>
