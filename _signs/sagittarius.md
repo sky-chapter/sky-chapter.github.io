@@ -2,6 +2,7 @@
 layout: sign
 sign_name: Sagittarius
 glyph: "♐"
+element: fire
 order: 9
 mask: "the traveler"
 date: 2026-11-23

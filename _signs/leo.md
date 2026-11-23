@@ -2,6 +2,7 @@
 layout: sign
 sign_name: Leo
 glyph: "♌"
+element: fire
 order: 5
 mask: "the star"
 date: 2026-11-23

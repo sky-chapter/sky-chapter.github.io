@@ -2,6 +2,7 @@
 layout: sign
 sign_name: Aries
 glyph: "♈"
+element: fire
 order: 1
 mask: "the racer"
 date: 2026-11-23

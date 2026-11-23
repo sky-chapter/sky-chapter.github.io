@@ -78,3 +78,8 @@ h1,h2,.brand{font-family:"Fraunces",Georgia,"Times New Roman",serif;font-weight:
 .wheel img{width:min(540px,100%);height:auto;border:1px solid var(--line);border-radius:1rem;background:#0b0d14;padding:.5rem}
 
 .wheel figcaption{color:var(--muted);font-size:.85rem;margin-top:.55rem;max-width:34rem;margin-left:auto;margin-right:auto}
+
+/* element accents for people */
+.el-fire{--sig:#e8b45a}.el-earth{--sig:#9fc48a}.el-air{--sig:#a8c2ff}.el-water{--sig:#7fb8d8}
+.sign-page{border-top:3px solid var(--sig);padding-top:1rem;border-radius:.4rem}
+.sign-page .glyph{color:var(--sig);text-shadow:0 0 16px var(--sig)}

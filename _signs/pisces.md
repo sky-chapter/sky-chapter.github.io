@@ -2,6 +2,7 @@
 layout: sign
 sign_name: Pisces
 glyph: "♓"
+element: water
 order: 12
 mask: "the dreamer"
 date: 2026-11-23

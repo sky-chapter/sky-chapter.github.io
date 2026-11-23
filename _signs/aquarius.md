@@ -2,6 +2,7 @@
 layout: sign
 sign_name: Aquarius
 glyph: "♒"
+element: air
 order: 11
 mask: "the inventor"
 date: 2026-11-23

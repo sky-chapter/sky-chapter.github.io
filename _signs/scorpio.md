@@ -2,6 +2,7 @@
 layout: sign
 sign_name: Scorpio
 glyph: "♏"
+element: water
 order: 8
 mask: "the investigator"
 date: 2026-11-23

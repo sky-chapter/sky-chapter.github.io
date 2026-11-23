@@ -2,6 +2,7 @@
 layout: sign
 sign_name: Taurus
 glyph: "♉"
+element: earth
 order: 2
 mask: "the gardener"
 date: 2026-11-23

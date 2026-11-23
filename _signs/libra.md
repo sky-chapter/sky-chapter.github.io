@@ -2,6 +2,7 @@
 layout: sign
 sign_name: Libra
 glyph: "♎"
+element: air
 order: 7
 mask: "the negotiator"
 date: 2026-11-23

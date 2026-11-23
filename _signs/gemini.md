@@ -2,6 +2,7 @@
 layout: sign
 sign_name: Gemini
 glyph: "♊"
+element: air
 order: 3
 mask: "the signal-runner"
 date: 2026-11-23

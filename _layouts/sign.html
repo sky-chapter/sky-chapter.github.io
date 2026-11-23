@@ -1,11 +1,11 @@
 ---
 layout: default
 ---
-<article class="sign-page">
+<article class="sign-page el-{{ page.element }}">
   <h1><span class="glyph">{{ page.glyph | default: "✦" }}</span> {{ page.sign_name }} <span class="mask">· {{ page.mask }}</span></h1>
   <p class="meta">{{ page.date | date: "%B %-d, %Y" }} · <a href="{{ '/archive/' | relative_url }}">Archive</a></p>
   {{ content }}
-  <p class="share"><a href="https://t.me/share/url?url={{ site.url | append: page.url | uri_escape }}&text={{ page.title | default: page.sign_name | uri_escape }}" target="_blank" rel="noopener">Share on Telegram</a></p>
+  <p class="share"><a href="https://t.me/share/url?url={{ site.url | append: page.url | uri_escape }}&text={{ page.title | default: page.sign_name | uri_escape }}" target="_blank" rel="noopener">Share on Telegram</a> · <a href="https://twitter.com/intent/tweet?url={{ site.url | append: page.url | uri_escape }}&text={{ page.title | default: page.sign_name | uri_escape }}" target="_blank" rel="noopener">Post on X</a></p>
 
   {% assign order = "aries,taurus,gemini,cancer,leo,virgo,libra,scorpio,sagittarius,capricorn,aquarius,pisces" | split: "," %}
   {% assign cur = -1 %}{% for s in order %}{% if s == page.slug %}{% assign cur = forloop.index0 %}{% endif %}{% endfor %}
