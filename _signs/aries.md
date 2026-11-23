@@ -5,15 +5,15 @@ glyph: "♈"
 element: fire
 order: 1
 mask: "the racer"
-date: 2026-11-23
+date: 2026-11-24
 og_image: /assets/og-aries.png
 ---
 
-- **Started as:** the old rush cools — you are counting fuel now.
-- **On the road:** the Moon sits in your 2nd house (steady money/body), and the Sun trines your ruler **Saturn** — limits start to feel like a plan, not a wall. [Mars and Jupiter](/signs/leo) still meet in your 5th: play with both hands.
-- **Turning into:** the season flip (Sun in Sagittarius) opens the far road — pick one direction, not five.
+- **Started as:** fuel counted → one road, no chatter.
+- **On the road:** your ruler [Mars sits fused with Jupiter](/signs/leo) in your 5th house ([conjunction](/notes/aspects), orb 2.76°) — appetite and luck share one engine. The new Sagittarius Sun squares your ruler from your 9th: the far road tests how much fuel you really have. The Moon in your 2nd keeps one hand on the wallet.
+- **Turning into:** Mars edges toward Virgo — the chase starts becoming craft.
 <details class="profi"><summary>Profi (tap)</summary>
 
-Moon 8°19′ Taurus (2nd) · Sun 0°42′ Sagittarius ([trine](/notes/aspects) Saturn, orb 7°31′) · Mars 28°47′ + Jupiter 26°23′ Leo (5th).
+Mars 29°12′ + Jupiter 26°26′ Leo (5th, [conjunction](/notes/aspects) orb 2.76°) · Sun 1°43′ Sagittarius (9th, square Mars [orb](/notes/orb) 2.51°) · Moon 23°03′ Taurus (2nd) · Saturn 8°11′ Aries R (1st).
 </details>
-<p class="story-state"><strong>Story state:</strong> `fuel counted → one road, no chatter`.</p>
+<p class="story-state"><strong>Story state:</strong> `one road, no chatter → the far road tests the engine`.</p>

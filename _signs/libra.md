@@ -5,15 +5,15 @@ glyph: "♎"
 element: air
 order: 7
 mask: "the negotiator"
-date: 2026-11-23
+date: 2026-11-24
 og_image: /assets/og-libra.png
 ---
 
-- **Started as:** the scales found their level.
-- **On the road:** your ruler **Venus** in your sign takes two sextiles — charm and luck cooperate; the Moon in your 7th makes “we” the word of the day; the season flip brings your 3rd: calls, messages, short roads.
-- **Turning into:** one talk could tip a month — choose it well.
+- **Started as:** level scales → one true talk.
+- **On the road:** your ruler Venus sits in your sign and [sextiles Mars and Jupiter](/signs/leo) in your 11th — the group likes you, and the tide is with you. The Moon in your 8th squares that pair: shared money and hidden moods get edgy. The Sun in your 3rd sharpens the words — this is a good day to say the true thing well.
+- **Turning into:** the one true talk leaves the group for the person.
 <details class="profi"><summary>Profi (tap)</summary>
 
-Venus 24°24′ Libra (1st, ruler) · Mars+Jupiter Leo ([sextile](/notes/aspects)) · Moon 8°19′ Taurus (7th) · Sun 0°42′ Sagittarius (3rd).
+Venus 24°44′ Libra (1st, ruler; sextile Mars [orb](/notes/orb) 4.45°, Jupiter 1.70°) · Mars+Jupiter Leo (11th) · Moon 23°03′ Taurus (8th, square) · Sun 1°43′ Sagittarius (3rd).
 </details>
-<p class="story-state"><strong>Story state:</strong> `level scales → one true talk`.</p>
+<p class="story-state"><strong>Story state:</strong> `one true talk → take it out of the group chat`.</p>

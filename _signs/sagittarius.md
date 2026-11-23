@@ -5,15 +5,15 @@ glyph: "♐"
 element: fire
 order: 9
 mask: "the traveler"
-date: 2026-11-23
+date: 2026-11-24
 og_image: /assets/og-sagittarius.png
 ---
 
-- **Started as:** a border crossed; the air changed.
-- **On the road:** the **Sun enters your sign** — the season turns yours: bold yeses, far maps, big questions. The Moon in your 9th blesses the road; [Mars and Jupiter](/signs/leo) sit in your 12th: strength gathers behind the curtain.
-- **Turning into:** pack light; book the ticket after the next meal, not before.
+- **Started as:** border crossed → the year's last map opens.
+- **On the road:** the Sun is in your sign, and today it squares [your ruler Jupiter and Mars](/signs/leo) from your 9th — the big map argues with the big appetite. The Moon in your 6th keeps the boots on the ground. The [Sun trines Saturn](/notes/aspects) from your 5th: patience quietly backs the boldness, if you let it.
+- **Turning into:** Mars moves toward Virgo and your 10th — the map becomes a plan.
 <details class="profi"><summary>Profi (tap)</summary>
 
-Sun 0°42′ Sagittarius (1st) · Moon 8°19′ Taurus (9th) · Mars+Jupiter Leo (12th) · Saturn 8°13′ Aries R.
+Sun 1°43′ Sagittarius (1st; square Jupiter [orb](/notes/orb) 5.27°, Mars 2.51°; [trine](/notes/aspects) Saturn 6.48°) · Jupiter 26°26′ + Mars 29°12′ Leo (9th, ruler Jupiter) · Moon 23°03′ Taurus (6th) · Saturn 8°11′ Aries R (5th).
 </details>
-<p class="story-state"><strong>Story state:</strong> `border crossed → the year's last map opens`.</p>
+<p class="story-state"><strong>Story state:</strong> `the map opens → the map argues with the appetite`.</p>

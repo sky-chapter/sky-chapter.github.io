@@ -5,15 +5,15 @@ glyph: "♑"
 element: earth
 order: 10
 mask: "the builder"
-date: 2026-11-23
+date: 2026-11-24
 og_image: /assets/og-capricorn.png
 ---
 
-- **Started as:** stairs, one by one — now the staircase has a view.
-- **On the road:** the Sun **trines your ruler Saturn** (retrograde in your 4th) — the slow repair becomes strategy; the Moon in your 5th asks for play, the Mars–Jupiter pair works your 8th: shared money moves.
-- **Turning into:** finish the old thing quietly — then dance.
+- **Started as:** quiet repair becomes plan → then the room with music.
+- **On the road:** your ruler [Saturn is retrograde](/notes/retrograde) in your 4th and catches a trine from the Sun — the slow repair holds up as a real plan. The Moon in your 5th squares [Mars and Jupiter in your 8th](/signs/leo): fun has a price tag, and someone else holds the receipt. Venus in your 10th keeps the public door warm.
+- **Turning into:** the Moon enters Gemini and your 6th — the plan meets the to-do list.
 <details class="profi"><summary>Profi (tap)</summary>
 
-Sun 0°42′ Sagittarius ([trine](/notes/aspects) Saturn, orb 7°31′) · Saturn 8°13′ Aries R (4th, ruler) · Moon 8°19′ Taurus (5th) · Mars+Jupiter Leo (8th).
+Saturn 8°11′ Aries R (4th, ruler; [trine](/notes/aspects) Sun [orb](/notes/orb) 6.48°) · Sun 1°43′ Sagittarius (12th) · Moon 23°03′ Taurus (5th) square Mars+Jupiter (8th) · Venus 24°44′ Libra (10th).
 </details>
-<p class="story-state"><strong>Story state:</strong> `quiet repair becomes plan → then the room with music`.</p>
+<p class="story-state"><strong>Story state:</strong> `then the room with music → check the price of the ticket`.</p>
