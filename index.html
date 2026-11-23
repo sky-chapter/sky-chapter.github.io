@@ -9,7 +9,7 @@ title: Today
   <h1>{{ ep.title }}</h1>
   <p class="sky-strip"><span class="moon-ico">☾</span> {{ ep.cold_open }}</p>
   {% if ep.moon %}<p class="moon-chip"><span class="m-emoji">{{ ep.moon }}</span></p>{% endif %}
-  <figure class="wheel"><img src="{{ ep.date | date: '%Y-%m-%d' | prepend: '/assets/wheel-' | append: '.svg' | relative_url }}" alt="Sky map for {{ ep.date | date: '%B %-d, %Y' }}"></figure>
+  <figure class="wheel"><img src="{{ ep.date | date: '%Y-%m-%d' | prepend: '/assets/wheel-' | append: '.svg' | relative_url }}" alt="Sky map for {{ ep.date | date: '%B %-d, %Y' }}"><figcaption>The real sky at {{ ep.date | date: '%B %-d, %Y' }} 00:00 UTC — coloured dots are the planets, thin lines are close aspects (≤5°), glyphs mark the tropical signs.</figcaption></figure>
   <p class="canvas">{{ ep.canvas }}</p>
   {% if ep.season_thread %}<p class="season-thread"><strong>Season thread</strong> — {{ ep.season_thread }}</p>{% endif %}
   <p><a class="cta" href="{{ ep.url | relative_url }}">Read the chapter →</a></p>

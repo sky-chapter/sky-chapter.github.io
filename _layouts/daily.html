@@ -3,7 +3,7 @@ layout: default
 ---
 <article class="episode">
   <p class="meta">{{ page.date | date: "%B %-d, %Y" }} · snapshot 00:00 UTC</p>
-  <figure class="wheel"><img src="{{ page.date | date: '%Y-%m-%d' | prepend: '/assets/wheel-' | append: '.svg' | relative_url }}" alt="Sky map for {{ page.date | date: '%B %-d, %Y' }}"></figure>
+  <figure class="wheel"><img src="{{ page.date | date: '%Y-%m-%d' | prepend: '/assets/wheel-' | append: '.svg' | relative_url }}" alt="Sky map for {{ page.date | date: '%B %-d, %Y' }}"><figcaption>The real sky at {{ page.date | date: '%B %-d, %Y' }} 00:00 UTC — coloured dots are the planets, thin lines are close aspects (≤5°), glyphs mark the tropical signs.</figcaption></figure>
   {% if page.season_thread %}<p class="season-thread"><strong>Season thread</strong> — {{ page.season_thread }}</p>{% endif %}
   {{ content }}
 </article>
