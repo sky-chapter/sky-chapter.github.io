@@ -1,6 +1,7 @@
 ---
 layout: sign
 sign_name: Sagittarius
+glyph: "♐"
 mask: "the traveler"
 date: 2026-11-23
 og_image: /assets/og-sagittarius.png

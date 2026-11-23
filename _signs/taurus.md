@@ -1,6 +1,7 @@
 ---
 layout: sign
 sign_name: Taurus
+glyph: "♉"
 mask: "the gardener"
 date: 2026-11-23
 og_image: /assets/og-taurus.png

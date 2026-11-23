@@ -1,6 +1,7 @@
 ---
 layout: sign
 sign_name: Pisces
+glyph: "♓"
 mask: "the dreamer"
 date: 2026-11-23
 og_image: /assets/og-pisces.png
@@ -22,4 +23,4 @@ Neptune 1°44′ Pisces R (1st) · Sun 0°42′ Sagittarius (10th) · Moon 8°19
 - **Tonight check-in** *(same slot, every night)* — “What am I finally ready to leave behind this season?”
 - **Keep the season going:** next chapter drops at **10:00 UTC** · [RSS](/rss.xml).
 
-**Post-credits:** Fact — the Sun changes signs roughly once a month; today it steps over the border into Sagittarius. *(Glossary terms live in `/notes`.)*
+**✧ Cosmic fact:** The Sun changes signs roughly once a month; today it steps over the border into Sagittarius. **◆ Term of the day:** *ingress* = the moment a planet crosses from one sign into the next.

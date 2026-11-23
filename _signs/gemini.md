@@ -1,6 +1,7 @@
 ---
 layout: sign
 sign_name: Gemini
+glyph: "♊"
 mask: "the signal-runner"
 date: 2026-11-23
 og_image: /assets/og-gemini.png

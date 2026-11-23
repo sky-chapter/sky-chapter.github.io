@@ -1,6 +1,7 @@
 ---
 layout: sign
 sign_name: Virgo
+glyph: "♍"
 mask: "the archivist"
 date: 2026-11-23
 og_image: /assets/og-virgo.png

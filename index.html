@@ -7,7 +7,8 @@ title: Today
 <section class="board">
   <p class="eyebrow">SKY CHAPTER · {{ ep.date | date: "%B %-d, %Y" }} · snapshot 00:00 UTC</p>
   <h1>{{ ep.title }}</h1>
-  <p class="sky-strip">{{ ep.cold_open }}</p>
+  <p class="sky-strip"><span class="moon-ico">☾</span> {{ ep.cold_open }}</p>
+  {% if ep.moon %}<p class="moon-chip"><span class="m-emoji">{{ ep.moon }}</span></p>{% endif %}
   <p class="canvas">{{ ep.canvas }}</p>
   {% if ep.season_thread %}<p class="season-thread"><strong>Season thread</strong> — {{ ep.season_thread }}</p>{% endif %}
   <p><a class="cta" href="{{ ep.url | relative_url }}">Read the chapter →</a></p>
@@ -17,7 +18,7 @@ title: Today
   <h2>What changed — the twelve today</h2>
   <ul>
     {% for s in site.signs %}
-      <li><a href="{{ s.url | relative_url }}">{{ s.sign_name }}</a> <span class="mask">{{ s.mask }}</span></li>
+      <li><a href="{{ s.url | relative_url }}"><span class="glyph">{{ s.glyph | default: "✦" }}</span><span class="sname">{{ s.sign_name }}</span></a> <span class="mask">{{ s.mask }}</span></li>
     {% endfor %}
   </ul>
 </section>

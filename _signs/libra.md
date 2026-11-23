@@ -1,6 +1,7 @@
 ---
 layout: sign
 sign_name: Libra
+glyph: "♎"
 mask: "the negotiator"
 date: 2026-11-23
 og_image: /assets/og-libra.png
