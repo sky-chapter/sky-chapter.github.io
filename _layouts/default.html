@@ -6,6 +6,9 @@
   <title>{{ page.title | default: site.title }} | {{ site.title }}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | truncate: 155 }}">
   <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}?v={{ site.time | date: '%Y%m%d%H%M' }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
   {% assign og_image = page.og_image | default: '/assets/og.png' %}
   <meta property="og:image" content="{{ og_image | absolute_url }}">
   <meta name="twitter:image" content="{{ og_image | absolute_url }}">
