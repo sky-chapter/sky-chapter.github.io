@@ -15,4 +15,4 @@ og_image: /assets/og-libra.png
 
 Venus 24°24′ Libra (1st, ruler) · Mars+Jupiter Leo ([sextile](/notes/aspects)) · Moon 8°19′ Taurus (7th) · Sun 0°42′ Sagittarius (3rd).
 </details>
-- **Story state:** `level scales → one true talk`.
+<p class="story-state"><strong>Story state:</strong> `level scales → one true talk`.</p>

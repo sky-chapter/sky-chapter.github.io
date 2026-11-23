@@ -63,3 +63,9 @@ ul{list-style:none;padding:0}
 .hook h2::before{content:"☾ ";color:var(--moon)}
 .index-list .glyph{margin-right:.4rem}
 @media(prefers-reduced-motion:no-preference){.sign-grid a:hover .glyph{transition:text-shadow .25s,color .25s}}
+
+/* cards for arc bullets */
+article li{background:var(--panel);border:1px solid var(--line);border-radius:.6rem;padding:.6rem .85rem;margin:.45rem 0}
+details.profi li, .profi li{background:none;border:0;padding:0;margin:.2rem 0}
+details.profi summary::before{content:"✦ ";color:var(--gold)}
+.story-state{border-top:1px dashed var(--line);margin-top:1.6rem;padding-top:.9rem;color:var(--muted);font-size:.9rem}

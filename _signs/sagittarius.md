@@ -15,4 +15,4 @@ og_image: /assets/og-sagittarius.png
 
 Sun 0°42′ Sagittarius (1st) · Moon 8°19′ Taurus (9th) · Mars+Jupiter Leo (12th) · Saturn 8°13′ Aries R.
 </details>
-- **Story state:** `border crossed → the year's last map opens`.
+<p class="story-state"><strong>Story state:</strong> `border crossed → the year's last map opens`.</p>

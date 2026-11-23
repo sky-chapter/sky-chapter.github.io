@@ -15,7 +15,7 @@ og_image: /assets/og-pisces.png
 
 Neptune 1°44′ Pisces R (1st) · Sun 0°42′ Sagittarius (10th) · Moon 8°19′ Taurus (2nd) · Jupiter 26°23′ + Mars 28°47′ Leo (6th).
 </details>
-- **Story state:** `fog with a shape → name one small price`.
+<p class="story-state"><strong>Story state:</strong> `fog with a shape → name one small price`.</p>
 
 ---
 

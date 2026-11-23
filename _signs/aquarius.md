@@ -15,4 +15,4 @@ og_image: /assets/og-aquarius.png
 
 Pluto 3°25′ Aquarius (1st) · Saturn 8°13′ Aries R (3rd, ruler) · Sun 0°42′ Sagittarius (11th) · Moon 8°19′ Taurus (4th).
 </details>
-- **Story state:** `draft = door → open it for one friend first`.
+<p class="story-state"><strong>Story state:</strong> `draft = door → open it for one friend first`.</p>

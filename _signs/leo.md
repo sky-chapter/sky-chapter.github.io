@@ -15,4 +15,4 @@ og_image: /assets/og-leo.png
 
 Mars 28°47′ + Jupiter 26°23′ Leo (1st) · Sun 0°42′ Sagittarius (5th, [square](/notes/aspects)) · Moon 8°19′ Taurus (9th).
 </details>
-- **Story state:** `glow with both hands → don't feed the drama`.
+<p class="story-state"><strong>Story state:</strong> `glow with both hands → don't feed the drama`.</p>

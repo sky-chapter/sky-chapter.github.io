@@ -15,4 +15,4 @@ og_image: /assets/og-scorpio.png
 
 Sun 0°42′ Sagittarius (2nd) · Mars 28°47′ + Jupiter 26°23′ Leo (10th, ruler Mars) · Moon 8°19′ Taurus (8th) · Mercury 11°22′ Scorpio (1st).
 </details>
-- **Story state:** `new season asks: values → count the real ones`.
+<p class="story-state"><strong>Story state:</strong> `new season asks: values → count the real ones`.</p>

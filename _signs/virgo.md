@@ -15,4 +15,4 @@ og_image: /assets/og-virgo.png
 
 Mercury 11°22′ Scorpio (8th, ruler) · Moon 8°19′ Taurus (6th, [opposition](/notes/aspects) orb 3°03′) · Sun 0°42′ Sagittarius (4th).
 </details>
-- **Story state:** `one precise sentence → close the file`.
+<p class="story-state"><strong>Story state:</strong> `one precise sentence → close the file`.</p>

@@ -15,4 +15,4 @@ og_image: /assets/og-capricorn.png
 
 Sun 0°42′ Sagittarius ([trine](/notes/aspects) Saturn, orb 7°31′) · Saturn 8°13′ Aries R (4th, ruler) · Moon 8°19′ Taurus (5th) · Mars+Jupiter Leo (8th).
 </details>
-- **Story state:** `quiet repair becomes plan → then the room with music`.
+<p class="story-state"><strong>Story state:</strong> `quiet repair becomes plan → then the room with music`.</p>

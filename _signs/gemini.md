@@ -15,4 +15,4 @@ og_image: /assets/og-gemini.png
 
 Uranus 3°48′ Gemini R (1st, ruler) · Moon 8°19′ Taurus (3rd) · Mercury 11°22′ Scorpio (9th, [opposition](/notes/aspects) Moon orb 3°03′) · Sun 0°42′ Sagittarius (7th).
 </details>
-- **Story state:** `three stories → keep the one that is true`.
+<p class="story-state"><strong>Story state:</strong> `three stories → keep the one that is true`.</p>

@@ -15,4 +15,4 @@ og_image: /assets/og-aries.png
 
 Moon 8°19′ Taurus (2nd) · Sun 0°42′ Sagittarius ([trine](/notes/aspects) Saturn, orb 7°31′) · Mars 28°47′ + Jupiter 26°23′ Leo (5th).
 </details>
-- **Story state:** `fuel counted → one road, no chatter`.
+<p class="story-state"><strong>Story state:</strong> `fuel counted → one road, no chatter`.</p>

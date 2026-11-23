@@ -15,4 +15,4 @@ og_image: /assets/og-cancer.png
 
 Moon 8°19′ Taurus (4th, ruler) · Mercury 11°22′ Scorpio (5th) · Sun 0°42′ Sagittarius (6th).
 </details>
-- **Story state:** `windows open → air the room gently`.
+<p class="story-state"><strong>Story state:</strong> `windows open → air the room gently`.</p>

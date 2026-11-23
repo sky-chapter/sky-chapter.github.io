@@ -15,4 +15,4 @@ og_image: /assets/og-taurus.png
 
 Moon 8°19′ Taurus (1st, 96.2%) · Venus 24°24′ Libra (ruler) · Mars+Jupiter Leo (sextile) · Sun 0°42′ Sagittarius (8th).
 </details>
-- **Story state:** `full moon in the garden → harvest what is ripe`.
+<p class="story-state"><strong>Story state:</strong> `full moon in the garden → harvest what is ripe`.</p>
