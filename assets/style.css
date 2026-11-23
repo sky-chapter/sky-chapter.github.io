@@ -83,3 +83,16 @@ h1,h2,.brand{font-family:"Fraunces",Georgia,"Times New Roman",serif;font-weight:
 .el-fire{--sig:#e8b45a}.el-earth{--sig:#9fc48a}.el-air{--sig:#a8c2ff}.el-water{--sig:#7fb8d8}
 .sign-page{border-top:3px solid var(--sig);padding-top:1rem;border-radius:.4rem}
 .sign-page .glyph{color:var(--sig);text-shadow:0 0 16px var(--sig)}
+
+/* mobile polish */
+@media(max-width:640px){
+  h1{font-size:clamp(1.5rem,5.4vw,2.1rem)}
+  .brand{letter-spacing:.14em;font-size:.95rem}
+  nav a{margin-left:.7rem;font-size:.85rem;white-space:nowrap}
+  .eyebrow{letter-spacing:.07em;font-size:.72rem}
+  .moon-chip{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-size:.85rem;padding:.3rem .7rem;max-width:100%}
+  .wheel img{width:100%;padding:.2rem}
+  .sky-strip{font-size:1.12rem}
+  .sign-grid ul{columns:1}
+  article li{padding:.55rem .7rem}
+}
