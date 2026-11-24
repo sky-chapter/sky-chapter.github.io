@@ -5,25 +5,25 @@ glyph: "♓"
 element: water
 order: 12
 mask: "the dreamer"
-date: 2026-11-24
+date: 2026-11-25
 og_image: /assets/og-pisces.png
 ---
 
-- **Started as:** fog with a shape → name one small price.
-- **On the road:** your ruler [Neptune is retrograde](/notes/retrograde) and has slipped from your sign into Aries — your 2nd house. The fog moved off your face and onto your money: hold the price, don't chase the shimmer. The Sun lights your 10th; the Moon in your 3rd squares [Mars and Jupiter in your 6th](/signs/leo) — the daily work hums hot.
-- **Turning into:** the Moon enters Gemini and your 4th — retreat to base after a busy day.
+- **Started as:** back at base — the Moon in your 4th.
+- **On the road:** [Neptune is retrograde](/notes/retrograde) and still in Aries, your 2nd — the fog sits on the price tag, not on your face. Hold the number, don't chase the shimmer. The Moon has crossed into Gemini and your 4th, full-faced, [opposing the Sagittarius Sun](/notes/aspects) in your 10th (5.33°): home and duty pull in opposite directions. Her exact [sextile to retrograde Saturn](/notes/retrograde) in your 2nd (0.11°) is the anchor — one clean number steadies the dream.
+- **Turning into:** the Moon stays in your 4th — the base is worth keeping.
 <details class="profi"><summary>Profi (tap)</summary>
 
-Neptune 1°43′ Aries R (2nd, ruler) · Sun 1°43′ Sagittarius (10th) · Moon 23°03′ Taurus (3rd) square Mars+Jupiter (6th) · Venus 24°44′ Libra (8th).
+Neptune 1°42′ Aries R (2nd, ruler; [retrograde](/notes/retrograde)) · Moon 8°03′ Gemini (4th, 99.8%; opposition Sun 5.33°, sextile Saturn [orb](/notes/orb) 0.11°) · Sun 2°43′ Sagittarius (10th) · Saturn 8°10′ Aries R (2nd).
 </details>
-<p class="story-state"><strong>Story state:</strong> `name one small price → keep the price, not the fog`.</p>
+<p class="story-state"><strong>Story state:</strong> `keep the price, not the fog → one clean number`.</p>
 
 ---
 
 **Act III · Return threads**
-- **Recap (yesterday):** the Sun crossed into Sagittarius and the season flipped from depth to distance; the Moon rested almost full in Taurus and words argued with the mood after dusk.
-- **Tomorrow:** the Moon reaches its full face tonight; Mars stands one degree from Virgo — by the next chapter, the spark starts becoming skill.
-- **Tonight check-in** *(same slot, every night)* — “Now that the road is open, what will you actually charge toward?”
+- **Recap (yesterday):** the Sun squared the Leo pair and the Moon swelled to 99% in Taurus — the season's first test was fire meeting itself, with Mars one degree from Virgo.
+- **Tomorrow:** Mars stands 0.4° from Virgo — at this pace the spark crosses the threshold by the next chapter; the Gemini Moon keeps carrying the story while she wanes.
+- **Tonight check-in** *(same slot, every night)* — “When the noise gets loud, what one small structure would steady you?”
 - **Keep the season going:** next chapter drops at **10:00 UTC** · [RSS](/rss.xml).
 
-**✧ Cosmic fact:** The Moon looks full when Earth sits between it and the Sun — the near side is completely lit. Tonight the pair lines up almost exactly, with the Moon's face at 99.4% and still climbing at our snapshot. **◆ Term of the day:** *orb* = the gap between an aspect and its exact angle; the tighter the orb, the sharper it feels — today's Sun–Mars square is only 2.51° off perfect.
+**✧ Cosmic fact:** A full Moon doesn't glow by itself — it is a mirror. Sunlight hits the near side and bounces back; at 99.8% you are seeing almost the whole lit face, and the pair is already five degrees past exact full, so the peak has started to tip. **◆ Term of the day:** *sextile* = two planets 60° apart, a quiet “yes” where their energies can cooperate. Today the Moon and Saturn sit 59.89° apart — off by just 0.11°, the softest and tightest angle on the board.
