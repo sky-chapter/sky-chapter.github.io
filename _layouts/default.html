@@ -17,12 +17,29 @@
   </script>
   {% if site.google_site_verification %}<meta name="google-site-verification" content="{{ site.google_site_verification }}">{% endif %}
   {% if site.google_tag_manager %}
-  <!-- Google tag (snippet from analytics.google.com, shared across sok.lv) -->
-  <script async src="https://www.googletagmanager.com/gtm.js?id={{ site.google_tag_manager }}"></script>
+  <!-- Google tag (consent-aware, snippet per analytics.google.com) -->
   <script>
+    window.__scConsent = localStorage.getItem('sc_cookie_consent') || '';
+    window.scLoadTag = function () {
+      if (!window.__scGaLoaded) {
+        window.__scGaLoaded = true;
+        var s = document.createElement('script');
+        s.async = true;
+        s.src = 'https://www.googletagmanager.com/gtag/js?id={{ site.google_tag_manager }}';
+        document.head.appendChild(s);
+      }
+    };
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
+    gtag('consent', 'default', {
+      ad_storage: 'denied',
+      ad_user_data: 'denied',
+      ad_personalization: 'denied',
+      analytics_storage: (window.__scConsent === 'accept') ? 'granted' : 'denied'
+    });
     gtag('js', new Date());
+    gtag('config', '{{ site.google_tag_manager }}');
+    if (window.__scConsent) { window.scLoadTag(); }
   </script>
   {% endif %}
   {% seo %}
@@ -44,5 +61,29 @@
     <p>Reflection and entertainment, not a prediction or financial/medical/legal advice.</p>
     <p>New chapter daily at 10:00 UTC · <a href="{{ '/rss.xml' | relative_url }}">RSS</a></p>
   </footer>
+
+  <div id="cookiebar" class="cookiebar" hidden>
+    <p>We use a few cookies for site analytics. <a href="{{ '/methodology#cookies' | relative_url }}">Details</a></p>
+    <div class="cb-actions">
+      <button type="button" data-c="accept">Accept</button>
+      <button type="button" data-c="decline" class="ghost">Essential only</button>
+    </div>
+  </div>
+  <script>
+  (function () {
+    var bar = document.getElementById('cookiebar');
+    function decide(v) {
+      try { localStorage.setItem('sc_cookie_consent', v); } catch (e) {}
+      window.__scConsent = v;
+      if (window.gtag) gtag('consent', 'update', { analytics_storage: v === 'accept' ? 'granted' : 'denied' });
+      if (v === 'accept') window.scLoadTag();
+      bar.hidden = true;
+    }
+    if (!window.__scConsent) bar.hidden = false;
+    bar.querySelectorAll('button').forEach(function (b) {
+      b.addEventListener('click', function () { decide(b.getAttribute('data-c')); });
+    });
+  })();
+  </script>
 </body>
 </html>
