@@ -12,9 +12,11 @@
   {% assign og_image = page.og_image | default: '/assets/og.png' %}
   <meta property="og:image" content="{{ og_image | absolute_url }}">
   <meta name="twitter:image" content="{{ og_image | absolute_url }}">
+  {% if page.url != '/' %}
   <script type="application/ld+json">
   {"@context":"https://schema.org","@type":"WebSite","name":"Sky Chapter","url":"https://skychapter.sok.lv","description":"The sky, one chapter a day — real planetary math, plain-English ELI5.","inLanguage":"en"}
   </script>
+  {% endif %}
   {% if site.google_site_verification %}<meta name="google-site-verification" content="{{ site.google_site_verification }}">{% endif %}
   {% if site.google_tag_manager %}
   <!-- Google tag (consent-aware, snippet per analytics.google.com) -->
