@@ -5,15 +5,15 @@ glyph: "♒"
 element: air
 order: 11
 mask: "the inventor"
-date: 2026-11-25
+date: 2026-11-26
 og_image: /assets/og-aquarius.png
 ---
 
 - **Started as:** shared resources wait for the engine.
-- **On the road:** [Pluto keeps rebuilding your 1st](/signs/aquarius) while your ruler [Saturn backs up](/notes/retrograde) in your 3rd — rewrite once, not ten times. The Moon has moved to your 5th and [sextiles retrograde Saturn](/notes/aspects) at 0.11°: one exact tweak beats another whole draft. The Sun opens your 11th; the group is listening. [Mars and Jupiter in your 7th](/signs/leo) still carry the push through a partner, not a broadcast.
-- **Turning into:** Mars heads for Virgo and your 8th — shared resources get organized at last.
+- **On the road:** [Pluto keeps rebuilding your 1st](/signs/aquarius) (3°28′) while your ruler [Saturn backs up](/notes/retrograde) in your 3rd — rewrite once, not ten times. Mars has crossed into your 8th — the engine finally reaches shared resources. He is still [conjunct Jupiter](/notes/aspects) in your 7th (3.45° [orb](/notes/orb)): the push comes through a partner, not a broadcast. The Moon, at 23° Gemini in your 5th, [sextiles Jupiter](/notes/aspects) (3.38°) and [trines Venus](/notes/aspects) (2.36°) — one exact, warm tweak beats another whole draft.
+- **Turning into:** Mars builds in your 8th — the inventor gets the budget.
 <details class="profi"><summary>Profi (tap)</summary>
 
-Pluto 3°26′ Aquarius (1st) · Saturn 8°10′ Aries R (3rd, ruler; sextile Moon [orb](/notes/orb) 0.11°) · Moon 8°03′ Gemini (5th) · Mars 29°36′ + Jupiter 26°30′ Leo (7th, [conjunction](/notes/aspects) 3.1°).
+Pluto 3°28′ Aquarius (1st) · Saturn 8°08′ Aries [R](/notes/retrograde) (3rd, ruler) · Mars 0° Virgo (8th, [conjunction](/notes/aspects) Jupiter 3.45°) · Moon 23°10′ Gemini (5th, sextile Jupiter 3.38°, trine Venus 2.36°).
 </details>
-<p class="story-state"><strong>Story state:</strong> `open it for one friend → one exact tweak, not a new draft`.</p>
+<p class="story-state"><strong>Story state:</strong> `open it for one friend → the budget arrives`.</p>

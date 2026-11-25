@@ -5,15 +5,15 @@ glyph: "♉"
 element: earth
 order: 2
 mask: "the gardener"
-date: 2026-11-25
+date: 2026-11-26
 og_image: /assets/og-taurus.png
 ---
 
-- **Started as:** the harvest left the garden in the night — now it must be counted.
-- **On the road:** the Moon has crossed into Gemini and your 2nd house: the crop has to be priced, named, actually looked at. She is still 99.8% lit, and she [sextiles retrograde Saturn](/notes/retrograde) in your 12th at 0.11° — a quiet structure behind the scenes, not a loud one, holds the day together. Your ruler Venus sits in your 6th and [sextiles Jupiter](/notes/aspects) in your 4th (1.38°): the gentle route still pays off at home base.
-- **Turning into:** the Moon stays in Gemini — the counting continues tomorrow.
+- **Started as:** the harvest counted, now priced.
+- **On the road:** Mars has crossed into your 5th and left your 4th — the spark moves from home base into pleasure and risk. Your ruler Venus sits in your 6th and [sextiles Jupiter](/signs/leo) in your 4th at 1.03°, the tightest [orb](/notes/orb) on the board, and [Mars](/notes/aspects) in your 5th (4.47°): the gentle route pays twice over. The Moon, at 23° Gemini in your 2nd, [trines Venus](/notes/aspects) (2.36°) — what you value and what you enjoy are finally in step. [Saturn is retrograde](/notes/retrograde) in your 12th; the Sun trines it (4.4°) from your 8th: quiet backing behind the scenes.
+- **Turning into:** Mars builds in your 5th — the gardener plays.
 <details class="profi"><summary>Profi (tap)</summary>
 
-Moon 8°03′ Gemini (2nd, 99.8%, sextile Saturn [orb](/notes/orb) 0.11°) · Saturn 8°10′ Aries R (12th, [retrograde](/notes/retrograde)) · Venus 25°07′ Libra (6th, sextile Jupiter 1.38°) · Jupiter 26°30′ Leo (4th).
+Venus 25°32′ Libra (6th, ruler; sextile Jupiter 1.03°, sextile Mars 4.47°) · Moon 23°10′ Gemini (2nd, 97.1%, trine Venus 2.36°) · Mars 0° Virgo (5th) · Jupiter 26°34′ Leo (4th).
 </details>
-<p class="story-state"><strong>Story state:</strong> `harvest counted → the count becomes a plan`.</p>
+<p class="story-state"><strong>Story state:</strong> `harvest counted → the count turns into play`.</p>

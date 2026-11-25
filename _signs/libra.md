@@ -5,15 +5,15 @@ glyph: "♎"
 element: air
 order: 7
 mask: "the negotiator"
-date: 2026-11-25
+date: 2026-11-26
 og_image: /assets/og-libra.png
 ---
 
 - **Started as:** the true talk leaves the group for the person.
-- **On the road:** your ruler Venus sits in your own sign and [sextiles Jupiter](/signs/leo) in your 11th at 1.38° — the group still likes you, and the tide is with you. The Moon has moved to your 9th, full-faced and [opposing the Sagittarius Sun](/notes/aspects) in your 3rd (orb 5.33°): the big idea argues with the sentence you drafted. Her exact [sextile to retrograde Saturn](/notes/retrograde) in your 7th (0.11°) is the diplomat's trick — one calm boundary, and both sides can breathe.
-- **Turning into:** the one true talk finds its person — say it cleanly.
+- **On the road:** your ruler Venus sits in your own sign and [sextiles Jupiter](/signs/leo) in your 11th at 1.03° — the tightest [orb](/notes/orb) on the board; the group still likes you, exactly. The Moon, at 23° Gemini in your 9th, [trines Venus](/notes/aspects) (2.36°) — the big idea and the true talk agree. Mars has crossed into your 12th — the push goes quiet, behind the scenes. The [Sun squares Mars](/notes/aspects) from your 3rd (3.72°): the daily word argues with the hidden churn. Keep the talk clean; it has a person.
+- **Turning into:** Mars works your 12th — the negotiator rests between lines.
 <details class="profi"><summary>Profi (tap)</summary>
 
-Venus 25°07′ Libra (1st, ruler; sextile Jupiter [orb](/notes/orb) 1.38°) · Jupiter 26°30′ + Mars 29°36′ Leo (11th) · Moon 8°03′ Gemini (9th, sextile Saturn 0.11°, opposition Sun 5.33°) · Saturn 8°10′ Aries R (7th, [retrograde](/notes/retrograde)).
+Venus 25°32′ Libra (1st, ruler; sextile Jupiter 1.03°, trine Moon 2.36°) · Moon 23°10′ Gemini (9th) · Mars 0° Virgo (12th, square Sun 3.72°) · Jupiter 26°34′ Leo (11th).
 </details>
-<p class="story-state"><strong>Story state:</strong> `the true talk → one calm boundary`.</p>
+<p class="story-state"><strong>Story state:</strong> `the true talk → one clean line, one person`.</p>

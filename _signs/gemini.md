@@ -5,15 +5,15 @@ glyph: "♊"
 element: air
 order: 3
 mask: "the signal-runner"
-date: 2026-11-25
+date: 2026-11-26
 og_image: /assets/og-gemini.png
 ---
 
 - **Started as:** one true talk, out of the group chat.
-- **On the road:** the Moon is in YOUR sign at 8° — full-faced, 99.8%, opposite the Sagittarius Sun — so your whole chapter hums at once. She [sextiles retrograde Saturn](/notes/retrograde) in your 11th at 0.11°, the tightest [orb](/notes/orb) on the board: the group's noise, wired to a fine brake. [Uranus is retrograde](/notes/retrograde) in your 1st (3°43′), still rewriting the self-portrait. The Sun lights your 7th — one person, not the feed. Say it while the Moon is here.
-- **Turning into:** the Moon wanes in your sign — the signal has one more day to be said.
+- **On the road:** the Moon is in YOUR sign at 23° — waning gibbous, 97.1%, [trining Venus](/notes/aspects) (2.36°) and [sextiling Jupiter](/notes/aspects) (3.38°). The signal has softened; the true talk is easier to say now. [Uranus is retrograde](/notes/retrograde) in your 1st (3°40′), still rewriting the self-portrait. Mars has crossed into your 4th — the chase comes home, not to the group. The [Sun squares Mars](/notes/aspects) from your 7th (3.72°): one person argues with the private plan. Say it while the Moon is still here — she leaves Gemini overnight.
+- **Turning into:** the Moon enters Cancer — the signal moves from head to heart.
 <details class="profi"><summary>Profi (tap)</summary>
 
-Moon 8°03′ Gemini (1st, ruler, 99.8%, sextile Saturn [orb](/notes/orb) 0.11°) · Uranus 3°43′ Gemini R (1st, [retrograde](/notes/retrograde)) · Saturn 8°10′ Aries R (11th) · Sun 2°43′ Sagittarius (7th, [opposition](/notes/aspects) Moon 5.33°).
+Moon 23°10′ Gemini (1st, ruler, 97.1%; trine Venus 2.36°, sextile Jupiter 3.38°) · Uranus 3°40′ Gemini [R](/notes/retrograde) (1st) · Mars 0° Virgo (4th, square Sun 3.72°) · Sun 3°44′ Sagittarius (7th).
 </details>
-<p class="story-state"><strong>Story state:</strong> `one true talk → say it while the Moon is in your sign`.</p>
+<p class="story-state"><strong>Story state:</strong> `one true talk → say it before the Moon leaves`.</p>

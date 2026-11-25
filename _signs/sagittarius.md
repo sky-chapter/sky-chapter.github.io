@@ -5,15 +5,15 @@ glyph: "♐"
 element: fire
 order: 9
 mask: "the traveler"
-date: 2026-11-25
+date: 2026-11-26
 og_image: /assets/og-sagittarius.png
 ---
 
-- **Started as:** the map is still arguing with the appetite.
-- **On the road:** the Sun is in your sign (2°43′) and still squares [your ruler Jupiter and Mars](/signs/leo) from your 9th (orb 6.22° / 3.12°) — the big map against the big appetite, day two. The Moon has crossed into Gemini and your 7th, full-faced and [opposing your Sun](/notes/aspects) (5.33°): the horizon has a partner-shaped echo. Her exact [sextile to retrograde Saturn](/notes/retrograde) in your 5th (0.11°) is the quiet answer — one patient promise steadies the whole quest.
-- **Turning into:** Mars moves into Virgo and your 10th — the map becomes a plan.
+- **Started as:** the map still arguing with the appetite.
+- **On the road:** the Sun is in your sign at 3°44′ — and it still squares [your ruler Jupiter](/signs/leo) in your 9th (7.17°) and Mars in your 10th (3.72°): the big map against the big appetite, day three. But the Sun also [trines retrograde Saturn](/notes/retrograde) in your 5th (4.4°) — patience quietly backs the quest. Mars has crossed into your 10th: the appetite becomes a career. The Moon, in Gemini and your 7th, [trines Venus](/notes/aspects) (2.36°) and [sextiles Jupiter](/notes/aspects) (3.38°) — the horizon has a partner-shaped echo, and it is warm.
+- **Turning into:** Mars builds in your 10th — the map becomes a plan.
 <details class="profi"><summary>Profi (tap)</summary>
 
-Sun 2°43′ Sagittarius (1st; square Jupiter [orb](/notes/orb) 6.22°, Mars 3.12°; [trine](/notes/aspects) Saturn 5.44°) · Moon 8°03′ Gemini (7th, opposition Sun 5.33°, sextile Saturn 0.11°) · Jupiter 26°30′ + Mars 29°36′ Leo (9th, ruler Jupiter).
+Sun 3°44′ Sagittarius (1st; square Jupiter 7.17°, square Mars 3.72°, trine Saturn 4.4°) · Jupiter 26°34′ Leo (9th, ruler) · Mars 0° Virgo (10th) · Moon 23°10′ Gemini (7th, trine Venus 2.36°, sextile Jupiter 3.38°).
 </details>
-<p class="story-state"><strong>Story state:</strong> `the map argues → one patient promise steadies it`.</p>
+<p class="story-state"><strong>Story state:</strong> `the map argues → the map becomes a plan`.</p>
