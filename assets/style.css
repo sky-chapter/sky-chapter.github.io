@@ -102,7 +102,7 @@ h1,h2,.brand{font-family:"Fraunces",Georgia,"Times New Roman",serif;font-weight:
 }
 
 /* cookie consent bar (minimal) */
-.cookiebar{position:fixed;left:50%;transform:translateX(-50%);bottom:.6rem;width:min(680px,calc(100% - 2rem));display:flex;gap:.7rem;align-items:center;justify-content:space-between;background:rgba(15,16,17,.94);border:1px solid var(--line);border-radius:.6rem;padding:.5rem .8rem;font-size:.8rem;z-index:50}
+.cookiebar{position:fixed;left:18px;bottom:18px;width:min(430px,calc(100% - 36px));display:flex;flex-direction:column;gap:.6rem;align-items:stretch;background:rgba(15,16,17,.94);border:1px solid var(--line);border-radius:.6rem;padding:.6rem .8rem;font-size:.78rem;z-index:50;box-shadow:0 10px 30px #0008}
 .cookiebar p{margin:0;color:var(--muted)}
 .cookiebar a{color:var(--moon)}
 .cb-actions{display:flex;gap:.4rem}
