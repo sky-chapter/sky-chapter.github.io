@@ -5,15 +5,15 @@ glyph: "♈"
 element: fire
 order: 1
 mask: "the racer"
-date: 2026-11-26
+date: 2026-11-27
 og_image: /assets/og-aries.png
 ---
 
-- **Started as:** chase becoming craft, one breath short of the door.
-- **On the road:** your ruler [Mars has crossed into Virgo](/signs/virgo) — out of your 5th, into your 6th. The chase finally has a job to do. He is still [conjunct Jupiter](/notes/aspects) (3.45° [orb](/notes/orb)) across the sign line, so the engine is loud but the road is suddenly practical. The [Sagittarius Sun squares Mars](/notes/aspects) from your 9th (3.72°): the far horizon still tests the daily grind. [Saturn is retrograde](/notes/retrograde) in your 1st, and the Sun trines it (4.4°) — patience is quietly backing you.
-- **Turning into:** Mars settles into Virgo — the racer learns the routine.
+- **Started as:** the craft became a daily job — the racer waited at the gate.
+- **On the road:** Your ruler [Mars sits at 0°24′ Virgo](/signs/virgo) in your 6th, still [conjunct Jupiter](/notes/aspects) in your 5th at 3.79° — the bridge stretches but holds. The Moon, at home in [Cancer](/signs/cancer) in your 4th, [squares retrograde Saturn](/notes/retrograde) in your 1st within 0.12°: the exact test lands on your own doorstep. The [Sagittarius Sun](/signs/sagittarius) squares Mars from your 9th (4.34°) but [trines Saturn](/notes/aspects) (3.37°) — patience now speaks louder than the far horizon. Venus sextiles Jupiter at 0.64°: the softest door on the board is open.
+- **Turning into:** the test passes — the racer learns to start slow.
 <details class="profi"><summary>Profi (tap)</summary>
 
-Mars 0° Virgo (6th) · Jupiter 26°34′ Leo (5th, [conjunction](/notes/aspects) [orb](/notes/orb) 3.45°) · Sun 3°44′ Sagittarius (9th, square Mars 3.72°, [trine](/notes/aspects) Saturn 4.4°) · Saturn 8°08′ Aries [R](/notes/retrograde) (1st).
+Mars 0°24′ Virgo (6th, [conjunction](/notes/aspects) Jupiter 3.79°) · Saturn 8°06′ Aries [R](/notes/retrograde) (1st, square Moon 0.12°, [trine](/notes/aspects) Sun 3.37°) · Sun 4°44′ Sagittarius (9th, square Mars 4.34°) · Venus 25°58′ Libra (7th, sextile Jupiter 0.64°).
 </details>
-<p class="story-state"><strong>Story state:</strong> `chase becoming craft → the craft is a daily job`.</p>
+<p class="story-state"><strong>Story state:</strong> `the craft is a daily job → the daily job passes its test`.</p>

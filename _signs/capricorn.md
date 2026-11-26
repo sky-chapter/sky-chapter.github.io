@@ -5,15 +5,15 @@ glyph: "♑"
 element: earth
 order: 10
 mask: "the builder"
-date: 2026-11-26
+date: 2026-11-27
 og_image: /assets/og-capricorn.png
 ---
 
-- **Started as:** the plan meets the to-do list.
-- **On the road:** your ruler [Saturn is retrograde](/notes/retrograde) in your 4th, and the Sun [trines it](/notes/aspects) from your 12th (4.4°) — the slow repair has quiet, steady backing. The Moon, at 23° Gemini in your 6th, [sextiles Jupiter](/notes/aspects) in your 8th (3.38°) and [trines Venus](/notes/aspects) in your 10th (2.36°): the list gets a tool, and the public door stays warm. Mars has crossed into your 9th — the spark goes toward the far plan, not the near chore.
-- **Turning into:** Mars builds in your 9th — the builder looks further out.
+- **Started as:** the builder looked further out — Mars in your 9th.
+- **On the road:** Your ruler [Saturn is retrograde](/notes/retrograde) at 8°06′ Aries in your 4th, and the Moon [squares it within 0.12°](/notes/aspects) — the exact test is at home, at the foundation. The [Sun trines Saturn](/notes/aspects) at 3.37° from your 12th, tighter than yesterday: the slow repair has steady backing. [Venus sextiles Jupiter](/signs/leo) in your 8th at 0.64° — a resource arrives through a partner. [Mars at 0°24′ Virgo](/signs/virgo) in your 9th keeps the long plan alive; Jupiter barely drifts (0.05° a day). Build slow. Build once.
+- **Turning into:** the builder passes the load test — the foundation holds.
 <details class="profi"><summary>Profi (tap)</summary>
 
-Saturn 8°08′ Aries [R](/notes/retrograde) (4th, ruler; trine Sun 4.4°) · Moon 23°10′ Gemini (6th, 97.1%; sextile Jupiter 3.38°, trine Venus 2.36°) · Mars 0° Virgo (9th) · Sun 3°44′ Sagittarius (12th).
+Saturn 8°06′ Aries [R](/notes/retrograde) (4th, ruler; square Moon 0.12°, trine Sun 3.37°) · Moon 8°14′ Cancer (7th, 91.7%) · Venus 25°58′ Libra (10th, sextile Jupiter 0.64°) · Mars 0°24′ Virgo (9th).
 </details>
-<p class="story-state"><strong>Story state:</strong> `the plan meets the list → the list serves a longer plan`.</p>
+<p class="story-state"><strong>Story state:</strong> `the list serves a longer plan → the foundation carries it`.</p>

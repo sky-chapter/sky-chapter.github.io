@@ -5,15 +5,15 @@ glyph: "♐"
 element: fire
 order: 9
 mask: "the traveler"
-date: 2026-11-26
+date: 2026-11-27
 og_image: /assets/og-sagittarius.png
 ---
 
-- **Started as:** the map still arguing with the appetite.
-- **On the road:** the Sun is in your sign at 3°44′ — and it still squares [your ruler Jupiter](/signs/leo) in your 9th (7.17°) and Mars in your 10th (3.72°): the big map against the big appetite, day three. But the Sun also [trines retrograde Saturn](/notes/retrograde) in your 5th (4.4°) — patience quietly backs the quest. Mars has crossed into your 10th: the appetite becomes a career. The Moon, in Gemini and your 7th, [trines Venus](/notes/aspects) (2.36°) and [sextiles Jupiter](/notes/aspects) (3.38°) — the horizon has a partner-shaped echo, and it is warm.
-- **Turning into:** Mars builds in your 10th — the map becomes a plan.
+- **Started as:** the map became a plan — Mars built in your 10th.
+- **On the road:** The [Sun is in your sign](/signs/sagittarius) at 4°44′. It squares Mars in your 10th (4.34°) and [trines retrograde Saturn](/notes/retrograde) in your 5th (3.37°) — appetite and brake are learning to pull together, and the trine is tighter than yesterday. Jupiter, your ruler, holds your 9th at 26°37′ and is still [conjunct Mars](/signs/virgo) at 3.79°: the far horizon is still in the plan. The Moon at 8°14′ Cancer in your 8th [squares Saturn R](/notes/aspects) exactly (0.12°) — the test concerns shared stakes, not the map. Venus sextiles Jupiter at 0.64°: a helper arrives quietly.
+- **Turning into:** the traveler adds a co-signer — the plan has a stakeholder.
 <details class="profi"><summary>Profi (tap)</summary>
 
-Sun 3°44′ Sagittarius (1st; square Jupiter 7.17°, square Mars 3.72°, trine Saturn 4.4°) · Jupiter 26°34′ Leo (9th, ruler) · Mars 0° Virgo (10th) · Moon 23°10′ Gemini (7th, trine Venus 2.36°, sextile Jupiter 3.38°).
+Sun 4°44′ Sagittarius (1st, ruler; square Mars 4.34°, trine Saturn [R](/notes/retrograde) 3.37°) · Jupiter 26°37′ Leo (9th, ruler; [conjunction](/notes/aspects) Mars 3.79°) · Moon 8°14′ Cancer (8th, square Saturn 0.12°) · Venus 25°58′ Libra (11th, sextile Jupiter 0.64°).
 </details>
-<p class="story-state"><strong>Story state:</strong> `the map argues → the map becomes a plan`.</p>
+<p class="story-state"><strong>Story state:</strong> `the map becomes a plan → the plan gets a co-signer`.</p>

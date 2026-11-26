@@ -5,15 +5,15 @@ glyph: "♊"
 element: air
 order: 3
 mask: "the signal-runner"
-date: 2026-11-26
+date: 2026-11-27
 og_image: /assets/og-gemini.png
 ---
 
-- **Started as:** one true talk, out of the group chat.
-- **On the road:** the Moon is in YOUR sign at 23° — waning gibbous, 97.1%, [trining Venus](/notes/aspects) (2.36°) and [sextiling Jupiter](/notes/aspects) (3.38°). The signal has softened; the true talk is easier to say now. [Uranus is retrograde](/notes/retrograde) in your 1st (3°40′), still rewriting the self-portrait. Mars has crossed into your 4th — the chase comes home, not to the group. The [Sun squares Mars](/notes/aspects) from your 7th (3.72°): one person argues with the private plan. Say it while the Moon is still here — she leaves Gemini overnight.
-- **Turning into:** the Moon enters Cancer — the signal moves from head to heart.
+- **Started as:** the signal moved from head to heart — the Moon left your sign.
+- **On the road:** The Moon is now at [8°14′ Cancer](/signs/cancer), your 2nd — the signal has a value attached. She [squares retrograde Saturn](/notes/aspects) in your 11th within a 0.12° [orb](/notes/orb): the exact test concerns the group, the promise, the shared plan. Mercury, your ruler, works [16°25′ Scorpio](/signs/scorpio) in your 6th — deep research, quiet precision. [Uranus is retrograde](/notes/retrograde) in your 1st at 3°38′, still rewriting the self-portrait. Tomorrow the Moon trines Mercury (5.3°) — the test turns into a sentence you can finally say out loud.
+- **Turning into:** the signal gets a number — the runner names the worth.
 <details class="profi"><summary>Profi (tap)</summary>
 
-Moon 23°10′ Gemini (1st, ruler, 97.1%; trine Venus 2.36°, sextile Jupiter 3.38°) · Uranus 3°40′ Gemini [R](/notes/retrograde) (1st) · Mars 0° Virgo (4th, square Sun 3.72°) · Sun 3°44′ Sagittarius (7th).
+Moon 8°14′ Cancer (2nd, 91.7%; square Saturn [R](/notes/retrograde) 0.12°) · Saturn 8°06′ Aries [R](/notes/retrograde) (11th) · Mercury 16°25′ Scorpio (6th, ruler) · Uranus 3°38′ Gemini [R](/notes/retrograde) (1st).
 </details>
-<p class="story-state"><strong>Story state:</strong> `one true talk → say it before the Moon leaves`.</p>
+<p class="story-state"><strong>Story state:</strong> `say it before the Moon leaves → say what it's worth`.</p>

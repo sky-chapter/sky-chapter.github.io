@@ -5,15 +5,15 @@ glyph: "♋"
 element: water
 order: 4
 mask: "the keeper of the hearth"
-date: 2026-11-26
+date: 2026-11-27
 og_image: /assets/og-cancer.png
 ---
 
-- **Started as:** quiet after the crowd — the Moon in your 12th.
-- **On the road:** your ruler, the Moon, sits at 23° Gemini in your 12th — still the quiet room, but she [trines Venus](/notes/aspects) (2.36°) and [sextiles Jupiter](/notes/aspects) (3.38°): warmth reaches you even here. Mars has crossed into your 3rd — the spark moves into words and short trips, close to home. The [Sun squares Mars](/notes/aspects) from your 6th (3.72°): the daily grind argues with the message. By the next snapshot the Moon is in your own sign and [squares retrograde Saturn](/notes/aspects) within 0.12° — the hearth gets its exact test.
-- **Turning into:** the Moon comes home to Cancer — the keeper goes on duty.
+- **Started as:** the keeper came on duty — the Moon returned home.
+- **On the road:** Your ruler the Moon is in your own sign at [8°14′ Cancer](/signs/cancer) — waning gibbous, 91.7% — and [squares retrograde Saturn](/notes/aspects) in your 10th within 0.12°. This is the season's exact test, and it lands on you: the hearth meets the clock, the square is a quarter of the Moon's own width from perfect. She also [sextiles Mars](/signs/virgo) in your 3rd at a wide 7.83°, and the [Sun trines Saturn](/notes/retrograde) from your 6th (3.37°). The Sun squares Mars (4.34°): the daily grind still argues with the message. Keep the hearth. Don't answer the argument.
+- **Turning into:** the hearth holds — the keeper passes by staying.
 <details class="profi"><summary>Profi (tap)</summary>
 
-Moon 23°10′ Gemini (12th, ruler, 97.1%; trine Venus 2.36°, sextile Jupiter 3.38°) · Mars 0° Virgo (3rd) · Sun 3°44′ Sagittarius (6th, square Mars 3.72°) · Venus 25°32′ Libra (4th).
+Moon 8°14′ Cancer (1st, ruler, 91.7%; square Saturn [R](/notes/retrograde) 0.12°, sextile Mars 7.83°) · Saturn 8°06′ Aries [R](/notes/retrograde) (10th, trine Sun 3.37°) · Sun 4°44′ Sagittarius (6th, square Mars 4.34°) · Mars 0°24′ Virgo (3rd).
 </details>
-<p class="story-state"><strong>Story state:</strong> `quiet after the crowd → the Moon comes home`.</p>
+<p class="story-state"><strong>Story state:</strong> `the Moon comes home → the hearth survives the exact square`.</p>

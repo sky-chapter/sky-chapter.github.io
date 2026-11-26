@@ -5,15 +5,15 @@ glyph: "♎"
 element: air
 order: 7
 mask: "the negotiator"
-date: 2026-11-26
+date: 2026-11-27
 og_image: /assets/og-libra.png
 ---
 
-- **Started as:** the true talk leaves the group for the person.
-- **On the road:** your ruler Venus sits in your own sign and [sextiles Jupiter](/signs/leo) in your 11th at 1.03° — the tightest [orb](/notes/orb) on the board; the group still likes you, exactly. The Moon, at 23° Gemini in your 9th, [trines Venus](/notes/aspects) (2.36°) — the big idea and the true talk agree. Mars has crossed into your 12th — the push goes quiet, behind the scenes. The [Sun squares Mars](/notes/aspects) from your 3rd (3.72°): the daily word argues with the hidden churn. Keep the talk clean; it has a person.
-- **Turning into:** Mars works your 12th — the negotiator rests between lines.
+- **Started as:** the negotiator rested between the lines — Mars in your 12th.
+- **On the road:** Venus, your ruler, is at [25°58′ in your own sign](/signs/libra) and [sextiles Jupiter](/notes/aspects) in your 11th at 0.64° — the tightest orb on the board, and it is yours; she also sextiles Mars in your 12th (4.43°). The Moon at 8°14′ Cancer in your 10th [squares retrograde Saturn](/notes/retrograde) in your 7th within a 0.12° [orb](/notes/orb): the exact test is a promise made to one person. The [Sun squares Mars](/notes/aspects) from your 3rd (4.34°) — everyday words still poke the quiet. Keep the line clean. It has a signature.
+- **Turning into:** the negotiator signs — the rest becomes a term.
 <details class="profi"><summary>Profi (tap)</summary>
 
-Venus 25°32′ Libra (1st, ruler; sextile Jupiter 1.03°, trine Moon 2.36°) · Moon 23°10′ Gemini (9th) · Mars 0° Virgo (12th, square Sun 3.72°) · Jupiter 26°34′ Leo (11th).
+Venus 25°58′ Libra (1st, ruler; sextile Jupiter 0.64°, sextile Mars 4.43°) · Moon 8°14′ Cancer (10th, square Saturn [R](/notes/retrograde) 0.12°) · Saturn 8°06′ Aries [R](/notes/retrograde) (7th) · Mars 0°24′ Virgo (12th).
 </details>
-<p class="story-state"><strong>Story state:</strong> `the true talk → one clean line, one person`.</p>
+<p class="story-state"><strong>Story state:</strong> `one clean line, one person → one clean term, signed`.</p>

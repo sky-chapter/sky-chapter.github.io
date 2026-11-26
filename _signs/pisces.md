@@ -5,25 +5,27 @@ glyph: "♓"
 element: water
 order: 12
 mask: "the dreamer"
-date: 2026-11-26
+date: 2026-11-27
 og_image: /assets/og-pisces.png
 ---
 
-- **Started as:** back at base — the Moon in your 4th.
-- **On the road:** [Neptune is retrograde](/notes/retrograde) in Aries, your 2nd — the fog still sits on the price tag; hold the number, don't chase the shimmer. The Moon, at 23° Gemini in your 4th, [trines Venus](/notes/aspects) in your 8th (2.36°) and [sextiles Jupiter](/notes/aspects) in your 6th (3.38°): home and work quietly agree on what the dream is worth. Mars has crossed into your 7th — the spark goes into partnership, not solitude. The [Sun trines retrograde Saturn](/notes/retrograde) in your 2nd (4.4°) — one clean number steadies it all.
-- **Turning into:** Mars builds in your 7th — the dreamer meets a partner.
+- **Started as:** the dreamer met a partner — Mars in your 7th.
+- **On the road:** [Neptune is retrograde](/notes/retrograde) in Aries at 1°41′ in your 2nd — the fog still sits on the price tag; hold the number. The Moon at 8°14′ Cancer in your 5th [squares retrograde Saturn](/notes/aspects) in your 2nd within 0.12° — the exact test is the number itself. [Jupiter sits at 26°37′ Leo](/signs/leo) in your 6th and [sextiles Venus](/notes/aspects) at 0.64°: the work has a gentle, exact way through. The Sun trines Saturn (3.37°) from your 10th — one clean figure steadies the whole chapter.
+- **Turning into:** the dreamer keeps the number — the fog lifts off the price.
 <details class="profi"><summary>Profi (tap)</summary>
 
-Neptune 1°41′ Aries [R](/notes/retrograde) (2nd, ruler) · Moon 23°10′ Gemini (4th, 97.1%; trine Venus 2.36°, sextile Jupiter 3.38°) · Mars 0° Virgo (7th) · Sun 3°44′ Sagittarius (10th, trine Saturn 4.4°).
+Neptune 1°41′ Aries [R](/notes/retrograde) (2nd, ruler) · Moon 8°14′ Cancer (5th, 91.7%; square Saturn [R](/notes/retrograde) 0.12°) · Saturn 8°06′ Aries [R](/notes/retrograde) (2nd, trine Sun 3.37°) · Jupiter 26°37′ Leo (6th, sextile Venus 0.64°).
 </details>
-<p class="story-state"><strong>Story state:</strong> `keep the price, not the fog → one clean number, one partner`.</p>
+<p class="story-state"><strong>Story state:</strong> `one clean number, one partner → the number holds, the fog goes`.</p>
 
 ---
 
 **Act III · Return threads**
-- **Recap (yesterday):** the Moon crossed into Gemini at 99.8% and sextiled retrograde Saturn within 0.11° — the chatter met a brake; Mars sat 0.4° from Virgo.
-- **Tomorrow:** the Moon leaves Gemini for Cancer and, by the next snapshot, squares retrograde Saturn within 0.12° — the wheel gets its exact test; Mars edges to 0.4° Virgo.
-- **Tonight check-in** *(same slot, every night)* — “Where did today's spark ask for a job instead of a stage?”
+- **Recap (yesterday):** Mars crossed into Virgo at 0° while Jupiter sat nearly still in Leo — the conjunction became a cross-sign bridge at 3.45°; the Moon waned to 97.1% in Gemini, and the exact square was still a promise.
+- **Tomorrow:** the square loosens — the Moon moves to 23° Cancer (83.9%), [trines Mercury](/notes/aspects) (5.3°) and squares Venus (3.35°): the test becomes a conversation about worth. Venus–Jupiter tightens to 0.22°; Mars–Jupiter widens to 4.14°.
+- **Tonight check-in** *(same slot, every night)* — “Where did today's exact square turn into proof instead of pressure?”
 - **Keep the season going:** next chapter drops at **10:00 UTC** · [RSS](/rss.xml).
 
-**✧ Cosmic fact:** A sign boundary isn't a place Mars travels to — it's a line drawn on Earth's backdrop. Mars is covering about 0.4° a day, Jupiter only 0.05°, so the gap widens simply because one walks while the other barely drifts. Today's split is a change of address, not a collision. **◆ Term of the day:** *ingress* = the moment a planet crosses from one sign into the next — like stepping from one room into the next, same person, new address. Mars crossed from Leo into Virgo at 0° today.
+**✧ Cosmic fact:** “Exact” is a generous word. Today's Moon–Saturn square misses a perfect 90° by 0.12° — roughly a quarter of the Moon's own apparent width (about half a degree). Nothing in the sky lines up to a mathematically perfect angle; astrologers call it exact when the gap is small enough to feel like a hit. **◆ Term of the day:** *orb* = how far an aspect sits from its ideal angle — the smaller the number, the tighter the fit; today's square is 0.12° from perfect, the closest thing on the board to a bullseye.
+
+*Reflection & entertainment, not prediction. No medical, financial, or legal advice.*

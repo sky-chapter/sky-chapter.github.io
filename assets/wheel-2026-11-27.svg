@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" width="640" height="640" role="img" aria-label="Sky wheel for 2026-11-27">
+<circle cx="320" cy="320" r="308" fill="#0b0d14" stroke="#26282c" stroke-width="2"/>
+<circle cx="320" cy="320" r="300.0" fill="none" stroke="#4a4e58" stroke-width="2"/>
+<circle cx="320" cy="320" r="262.0" fill="none" stroke="#22242a" stroke-width="1"/>
+<circle cx="320" cy="320" r="200.0" fill="none" stroke="#1c1e24" stroke-width="1" stroke-dasharray="2 6"/>
+<circle cx="320" cy="320" r="120.0" fill="none" stroke="#22242a" stroke-width="1"/>
+<line x1="320.0" y1="20.0" x2="320.0" y2="200.0" stroke="#3a3d45" stroke-width="1"/>
+<line x1="470.0" y1="60.2" x2="380.0" y2="216.1" stroke="#3a3d45" stroke-width="1"/>
+<line x1="579.8" y1="170.0" x2="423.9" y2="260.0" stroke="#3a3d45" stroke-width="1"/>
+<line x1="620.0" y1="320.0" x2="440.0" y2="320.0" stroke="#3a3d45" stroke-width="1"/>
+<line x1="579.8" y1="470.0" x2="423.9" y2="380.0" stroke="#3a3d45" stroke-width="1"/>
+<line x1="470.0" y1="579.8" x2="380.0" y2="423.9" stroke="#3a3d45" stroke-width="1"/>
+<line x1="320.0" y1="620.0" x2="320.0" y2="440.0" stroke="#3a3d45" stroke-width="1"/>
+<line x1="170.0" y1="579.8" x2="260.0" y2="423.9" stroke="#3a3d45" stroke-width="1"/>
+<line x1="60.2" y1="470.0" x2="216.1" y2="380.0" stroke="#3a3d45" stroke-width="1"/>
+<line x1="20.0" y1="320.0" x2="200.0" y2="320.0" stroke="#3a3d45" stroke-width="1"/>
+<line x1="60.2" y1="170.0" x2="216.1" y2="260.0" stroke="#3a3d45" stroke-width="1"/>
+<line x1="170.0" y1="60.2" x2="260.0" y2="216.1" stroke="#3a3d45" stroke-width="1"/>
+<text x="387.8" y="66.9" fill="#c3c8d2" font-size="27" text-anchor="middle" dominant-baseline="middle" font-family="DejaVu Sans,sans-serif">♈</text>
+<text x="505.3" y="134.7" fill="#c3c8d2" font-size="27" text-anchor="middle" dominant-baseline="middle" font-family="DejaVu Sans,sans-serif">♉</text>
+<text x="573.1" y="252.2" fill="#c3c8d2" font-size="27" text-anchor="middle" dominant-baseline="middle" font-family="DejaVu Sans,sans-serif">♊</text>
+<text x="573.1" y="387.8" fill="#c3c8d2" font-size="27" text-anchor="middle" dominant-baseline="middle" font-family="DejaVu Sans,sans-serif">♋</text>
+<text x="505.3" y="505.3" fill="#c3c8d2" font-size="27" text-anchor="middle" dominant-baseline="middle" font-family="DejaVu Sans,sans-serif">♌</text>
+<text x="387.8" y="573.1" fill="#c3c8d2" font-size="27" text-anchor="middle" dominant-baseline="middle" font-family="DejaVu Sans,sans-serif">♍</text>
+<text x="252.2" y="573.1" fill="#c3c8d2" font-size="27" text-anchor="middle" dominant-baseline="middle" font-family="DejaVu Sans,sans-serif">♎</text>
+<text x="134.7" y="505.3" fill="#c3c8d2" font-size="27" text-anchor="middle" dominant-baseline="middle" font-family="DejaVu Sans,sans-serif">♏</text>
+<text x="66.9" y="387.8" fill="#c3c8d2" font-size="27" text-anchor="middle" dominant-baseline="middle" font-family="DejaVu Sans,sans-serif">♐</text>
+<text x="66.9" y="252.2" fill="#c3c8d2" font-size="27" text-anchor="middle" dominant-baseline="middle" font-family="DejaVu Sans,sans-serif">♑</text>
+<text x="134.7" y="134.7" fill="#c3c8d2" font-size="27" text-anchor="middle" dominant-baseline="middle" font-family="DejaVu Sans,sans-serif">♒</text>
+<text x="252.2" y="66.9" fill="#c3c8d2" font-size="27" text-anchor="middle" dominant-baseline="middle" font-family="DejaVu Sans,sans-serif">♓</text>
+<circle cx="139.1" cy="405.3" r="6" fill="#e8b45a"/>
+<text x="111.1" y="418.6" fill="#e8b45a" font-size="20" text-anchor="middle" dominant-baseline="middle" font-family="DejaVu Sans,sans-serif">☉</text>
+<circle cx="517.9" cy="348.6" r="6" fill="#a8c2ff"/>
+<text x="548.6" y="353.1" fill="#a8c2ff" font-size="20" text-anchor="middle" dominant-baseline="middle" font-family="DejaVu Sans,sans-serif">☽</text>
+<circle cx="175.1" cy="457.9" r="6" fill="#c8b48a"/>
+<text x="152.7" y="479.2" fill="#c8b48a" font-size="20" text-anchor="middle" dominant-baseline="middle" font-family="DejaVu Sans,sans-serif">☿</text>
+<circle cx="232.4" cy="499.8" r="6" fill="#e8c8a0"/>
+<text x="218.8" y="527.7" fill="#e8c8a0" font-size="20" text-anchor="middle" dominant-baseline="middle" font-family="DejaVu Sans,sans-serif">♀</text>
+<circle cx="418.8" cy="493.9" r="6" fill="#e07a5f"/>
+<text x="434.1" y="520.9" fill="#e07a5f" font-size="20" text-anchor="middle" dominant-baseline="middle" font-family="DejaVu Sans,sans-serif">♂</text>
+<circle cx="430.1" cy="487.0" r="6" fill="#d8a86a"/>
+<text x="447.1" y="512.9" fill="#d8a86a" font-size="20" text-anchor="middle" dominant-baseline="middle" font-family="DejaVu Sans,sans-serif">♃</text>
+<circle cx="348.2" cy="122.0" r="6" fill="#b8a88a"/>
+<text x="352.6" y="91.3" fill="#b8a88a" font-size="20" text-anchor="middle" dominant-baseline="middle" font-family="DejaVu Sans,sans-serif">♄</text>
+<circle cx="499.2" cy="231.2" r="6" fill="#8fd8d8"/>
+<text x="527.0" y="217.4" fill="#8fd8d8" font-size="20" text-anchor="middle" dominant-baseline="middle" font-family="DejaVu Sans,sans-serif">♅</text>
+<circle cx="325.9" cy="120.1" r="6" fill="#8fa8e8"/>
+<text x="326.8" y="89.1" fill="#8fa8e8" font-size="20" text-anchor="middle" dominant-baseline="middle" font-family="DejaVu Sans,sans-serif">♆</text>
+<circle cx="153.2" cy="209.7" r="6" fill="#a898c8"/>
+<text x="127.3" y="192.6" fill="#a898c8" font-size="20" text-anchor="middle" dominant-baseline="middle" font-family="DejaVu Sans,sans-serif">♇</text>
+<line x1="139.1" y1="405.3" x2="499.2" y2="231.2" stroke="#c8a8e8" stroke-width="1" opacity="0.8"/>
+<line x1="139.1" y1="405.3" x2="153.2" y2="209.7" stroke="#8fa8e8" stroke-width="1" opacity="0.8"/>
+<line x1="517.9" y1="348.6" x2="348.2" y2="122.0" stroke="#e07a5f" stroke-width="1" opacity="0.8"/>
+<line x1="232.4" y1="499.8" x2="430.1" y2="487.0" stroke="#8fa8e8" stroke-width="1" opacity="0.8"/>
+<line x1="499.2" y1="231.2" x2="325.9" y2="120.1" stroke="#8fa8e8" stroke-width="1" opacity="0.8"/>
+<line x1="499.2" y1="231.2" x2="153.2" y2="209.7" stroke="#8fa8e8" stroke-width="1" opacity="0.8"/>
+<line x1="325.9" y1="120.1" x2="153.2" y2="209.7" stroke="#8fa8e8" stroke-width="1" opacity="0.8"/>
+<text x="320" y="600" fill="#9aa0a8" font-size="16" text-anchor="middle" font-family="DejaVu Sans,sans-serif">2026-11-27 · snapshot 00:00 UTC</text>
+</svg>

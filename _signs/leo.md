@@ -5,15 +5,15 @@ glyph: "♌"
 element: fire
 order: 5
 mask: "the star"
-date: 2026-11-26
+date: 2026-11-27
 og_image: /assets/og-leo.png
 ---
 
-- **Started as:** the star waits at the door — Mars one breath from Virgo.
-- **On the road:** Mars has LEFT your sign. Jupiter still holds your 1st at 26°34′, [conjunct Mars](/notes/aspects) (3.45° [orb](/notes/orb)) across the border — the glow is yours, the engine has moved next door to your 2nd. Your ruler, the Sun, squares Mars from your 5th (3.72°) and Jupiter (7.17°), but [trines retrograde Saturn](/notes/retrograde) (4.4°): fun still argues with fire, while patience quietly steadies the stage. The Moon [sextiles Jupiter](/notes/aspects) from your 11th (3.38°) — a friend still likes the show.
-- **Turning into:** Mars counts the take in your 2nd — the star prices the glow.
+- **Started as:** the star priced the glow — Mars left your sign.
+- **On the road:** [Jupiter still holds your 1st](/signs/leo) at 26°37′, [conjunct Mars](/notes/aspects) in your 2nd at 3.79° — the glow is still yours, the engine is counting the take next door. Your ruler the [Sun sits at 4°44′ Sagittarius](/signs/sagittarius) in your 5th, squares Mars (4.34°) and [trines retrograde Saturn](/notes/retrograde) (3.37°): the stage argues, patience backs it. [Venus sextiles Jupiter](/notes/aspects) at 0.64° from your 3rd — one kind word does more than one big entrance. The Moon, in Cancer in your 12th, squares Saturn [R](/notes/retrograde) exactly (0.12°): the test happens backstage.
+- **Turning into:** the star learns the quiet entrance — backstage counts too.
 <details class="profi"><summary>Profi (tap)</summary>
 
-Jupiter 26°34′ Leo (1st, ruler) · Mars 0° Virgo (2nd, [conjunction](/notes/aspects) Jupiter 3.45°) · Sun 3°44′ Sagittarius (5th; square Mars 3.72°, square Jupiter 7.17°, trine Saturn 4.4°) · Moon 23°10′ Gemini (11th, sextile Jupiter 3.38°).
+Jupiter 26°37′ Leo (1st, ruler; [conjunction](/notes/aspects) Mars 3.79°) · Mars 0°24′ Virgo (2nd) · Sun 4°44′ Sagittarius (5th, square Mars 4.34°, trine Saturn 3.37°) · Moon 8°14′ Cancer (12th, square Saturn [R](/notes/retrograde) 0.12°).
 </details>
-<p class="story-state"><strong>Story state:</strong> `don't feed the drama → price the glow, keep the stage`.</p>
+<p class="story-state"><strong>Story state:</strong> `price the glow, keep the stage → the quiet entrance also fills the room`.</p>

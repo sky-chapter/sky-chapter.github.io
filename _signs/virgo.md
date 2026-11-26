@@ -5,15 +5,15 @@ glyph: "♍"
 element: earth
 order: 6
 mask: "the archivist"
-date: 2026-11-26
+date: 2026-11-27
 og_image: /assets/og-virgo.png
 ---
 
-- **Started as:** the engine at the threshold, 0.4° from your door.
-- **On the road:** he's IN. Mars crossed into Virgo at 0° — your 1st house at last. The archivist has the engine, and the [conjunction](/notes/aspects) to Jupiter in your 12th (3.45° [orb](/notes/orb)) says the old, hidden fire came with him. Your ruler Mercury works your 3rd at 15°05′. The [Sun squares Mars](/notes/aspects) from your 4th (3.72°): home still tests the new pace. The Moon, at 23° Gemini in your 10th, [sextiles Mars](/notes/aspects) at 6.83° — a wide but real [orb](/notes/orb) — and Jupiter (3.38°): public life quietly hands you the tools.
-- **Turning into:** Mars settles in your 1st — the engine is yours to drive.
+- **Started as:** the engine was yours to drive — Mars crossed your door.
+- **On the road:** Mars, at [0°24′ in your 1st](/signs/virgo), is still [conjunct Jupiter](/notes/aspects) in your 12th at 3.79° — the hidden fire came with him. Mercury, your ruler, is deep in your 3rd at [16°25′ Scorpio](/signs/scorpio). The Moon at 8°14′ Cancer sits in your 11th, [sextiling Mars](/notes/aspects) at a wide 7.83° and [squaring retrograde Saturn](/notes/retrograde) in your 8th within 0.12° — the exact test concerns shared trust, not the to-do list. The [Sagittarius Sun](/signs/sagittarius) squares Mars from your 4th (4.34°): home still tests the new pace. The system is allowed one imperfect day.
+- **Turning into:** the archivist files the test — the system survives contact.
 <details class="profi"><summary>Profi (tap)</summary>
 
-Mars 0° Virgo (1st, [conjunction](/notes/aspects) Jupiter 3.45°; square Sun 3.72°) · Jupiter 26°34′ Leo (12th) · Mercury 15°05′ Scorpio (3rd, ruler) · Moon 23°10′ Gemini (10th, sextile Mars 6.83°, sextile Jupiter 3.38°).
+Mars 0°24′ Virgo (1st, ruler; [conjunction](/notes/aspects) Jupiter 3.79°, square Sun 4.34°) · Jupiter 26°37′ Leo (12th) · Mercury 16°25′ Scorpio (3rd, ruler) · Moon 8°14′ Cancer (11th, sextile Mars 7.83°, square Saturn [R](/notes/retrograde) 0.12°).
 </details>
-<p class="story-state"><strong>Story state:</strong> `the engine at the threshold → the engine in your hands`.</p>
+<p class="story-state"><strong>Story state:</strong> `the engine in your hands → the system survives its first test`.</p>
