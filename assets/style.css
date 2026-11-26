@@ -44,6 +44,7 @@ a:focus-visible,summary:focus-visible{outline:2px solid var(--moon);outline-offs
 ul{list-style:none;padding:0}
 .signs-index ul{columns:3}
 .foot{border-top:1px solid var(--line);color:var(--muted);font-size:.85rem;padding:1rem 1.25rem;text-align:center}
+.foot .family{opacity:.8;margin-top:.5rem}
 .cta{display:inline-block;margin-top:.5rem;padding:.6rem 1rem;border:1px solid var(--gold);border-radius:.5rem;color:var(--gold);text-decoration:none}
 @media(max-width:640px){.signs-index ul{columns:2}}
 
