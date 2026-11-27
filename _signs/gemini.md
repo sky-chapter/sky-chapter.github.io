@@ -5,15 +5,15 @@ glyph: "♊"
 element: air
 order: 3
 mask: "the signal-runner"
-date: 2026-11-27
+date: 2026-11-28
 og_image: /assets/og-gemini.png
 ---
 
-- **Started as:** the signal moved from head to heart — the Moon left your sign.
-- **On the road:** The Moon is now at [8°14′ Cancer](/signs/cancer), your 2nd — the signal has a value attached. She [squares retrograde Saturn](/notes/aspects) in your 11th within a 0.12° [orb](/notes/orb): the exact test concerns the group, the promise, the shared plan. Mercury, your ruler, works [16°25′ Scorpio](/signs/scorpio) in your 6th — deep research, quiet precision. [Uranus is retrograde](/notes/retrograde) in your 1st at 3°38′, still rewriting the self-portrait. Tomorrow the Moon trines Mercury (5.3°) — the test turns into a sentence you can finally say out loud.
-- **Turning into:** the signal gets a number — the runner names the worth.
+- **Started as:** the signal got a number — the runner still had to say it.
+- **On the road:** The Moon at [23°05′ Cancer](/signs/cancer) sits in your 2nd and [trines Mercury, your ruler](/signs/scorpio), in your 6th at 5.3° — the test finally becomes a sentence you can say out loud, and it's about value. She squares Venus in your 5th at 3.35°: the sentence has a price. [Saturn backs up](/notes/retrograde) in your 11th at 8°05′ Aries R; the exact square that defined yesterday is gone, leaving the group's promise intact. Uranus is still retrograde in your 1st at 3°35′, rewriting the self-portrait. Venus sextiles Jupiter in your 3rd at 0.22° — the words land softly and exactly.
+- **Turning into:** the runner says the number — the signal is a sentence with a price.
 <details class="profi"><summary>Profi (tap)</summary>
 
-Moon 8°14′ Cancer (2nd, 91.7%; square Saturn [R](/notes/retrograde) 0.12°) · Saturn 8°06′ Aries [R](/notes/retrograde) (11th) · Mercury 16°25′ Scorpio (6th, ruler) · Uranus 3°38′ Gemini [R](/notes/retrograde) (1st).
+Mercury 17°47′ Scorpio (6th, ruler; trine Moon 5.3°) · Moon 23°05′ Cancer (2nd, 83.9%; square Venus 3.35°) · Saturn 8°05′ Aries [R](/notes/retrograde) (11th) · Venus 26°26′ Libra (5th, sextile Jupiter 0.22°).
 </details>
-<p class="story-state"><strong>Story state:</strong> `say it before the Moon leaves → say what it's worth`.</p>
+<p class="story-state"><strong>Story state:</strong> `say what it's worth → the worth is said, and it holds`.</p>
