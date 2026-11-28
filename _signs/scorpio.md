@@ -4,13 +4,16 @@ sign_name: Scorpio
 glyph: "♏"
 element: water
 order: 8
-mask: "the diver"
+mask: "the investigator"
 date: 2026-11-29
 og_image: /assets/og-scorpio.png
 ---
 
-- **Started as:** Standing at the edge of the deep blue trench in silent contemplation.
-- **On the road:** Mercury at 19.18° Scorpio holds direct motion, piercing beneath surface appearances while Pluto at 3.52° Aquarius anchors transformative shifts from a fixed square vantage.
-- **Turning into:** An alchemical investigator uncovering hidden truths for communal empowerment.
-- **Profi (tap):** <details class="profi"><summary>Profi (tap)</summary>Mercury is at 19.18° Scorpio (direct). Pluto sits at 3.52° Aquarius (direct). Consult </signs/scorpio>, </notes/retrograde>, and </notes/houses> for depth dynamics.</details>
-<p class="story-state"><strong>Story state:</strong> Solitary secrecy turning toward penetrating dialogue → turning private insights into public gold.</p>
+- **Started as:** the audit got a value — the investigator wanted the green light.
+- **On the road:** Mercury sits in your own sign at [19°11′ Scorpio](/signs/scorpio) — the lens is sharp — and the Moon has left Cancer, so the finding no longer arrives as a trine; it stands on its own. Mars, your ruler, is at [1°11′ Virgo](/signs/virgo) in your 11th, still [conjunct Jupiter](/notes/aspects) in your 10th at 4.47° — the crew's engine and the public plan share a bridge that stretches but holds. The Moon at [7°37′ Leo](/signs/leo) in your 10th trines [retrograde Saturn](/notes/retrograde) in your 6th at 0.44° — the tightest line in the sky gives the daily method a cautious yes from far above. The Sun trines Saturn at 1.3° from your 2nd: the receipt is backed. Keep it — it's approved.
+- **Turning into:** the investigator files the approval — the audit becomes authority.
+<details class="profi"><summary>Profi (tap)</summary>
+
+Mercury 19°11′ Scorpio (1st, ruler) · Mars 1°11′ Virgo (11th, ruler; [conjunction](/notes/aspects) Jupiter 4.47°) · Moon 7°37′ Leo (10th, 74.4%; trine Saturn 0.44°) · Saturn 8°04′ Aries [R](/notes/retrograde) (6th, trine Sun 1.3°).
+</details>
+<p class="story-state"><strong>Story state:</strong> `the audit gets a value → the valued audit is approved`.</p>

@@ -4,13 +4,16 @@ sign_name: Leo
 glyph: "♌"
 element: fire
 order: 5
-mask: "the stage"
+mask: "the star"
 date: 2026-11-29
 og_image: /assets/og-leo.png
 ---
 
-- **Started as:** Stepping into the warm morning spotlight with dramatic flair.
-- **On the road:** The Moon at 7.62° Leo illuminates the sign at 74.4 percent, forming an exact trine separation of 119.56 degrees (orb 0.44) to Saturn at 8.06° Aries, while Jupiter rests nearby at 26.70° Leo.
-- **Turning into:** A charismatic leader who blends theatrical joy with disciplined follow-through.
-- **Profi (tap):** <details class="profi"><summary>Profi (tap)</summary>Moon is at 7.62° Leo (direct, 74.4% illumination), forming a trine separation of 119.56° (orb 0.44) with Saturn at 8.06° Aries (retrograde). Jupiter sits at 26.70° Leo (direct). Visit </signs/leo> and </notes/aspects>.</details>
-<p class="story-state"><strong>Story state:</strong> Seeking applause shifting toward building a lasting legacy → performing with profound purpose.</p>
+- **Started as:** the filled room got a price — the star waited for the nod.
+- **On the road:** [Jupiter still holds your 1st](/signs/leo) at 26°42′ — [conjunct Mars](/notes/aspects) in your 2nd at 4.47°, the bridge stretching but unbroken — and your ruler the Sun sits at [6°46′ Sagittarius](/signs/sagittarius) in your 5th: he trines the Moon in your 1st at 0.86° and trines [retrograde Saturn](/notes/retrograde) in your 9th at 1.3°, while squaring Mars in your 2nd at 5.59°. The Moon herself is in your sign at 7°37′, 74.4%, and her trine to Saturn at 0.44° is the tightest line in the sky — the stage and the brake, in near-perfect agreement. Venus sextiles Jupiter at 0.23° from your 3rd: one kind word, almost exactly timed, seals it. The room is yours. So is the discipline to keep it.
+- **Turning into:** the star takes the stage — the price becomes a performance with a promise.
+<details class="profi"><summary>Profi (tap)</summary>
+
+Jupiter 26°42′ Leo (1st, ruler; [conjunction](/notes/aspects) Mars 4.47°, sextile Venus 0.23°) · Moon 7°37′ Leo (1st, 74.4%; trine Saturn 0.44°, trine Sun 0.86°) · Sun 6°46′ Sagittarius (5th, ruler; trine Saturn 1.3°, square Mars 5.59°) · Mars 1°11′ Virgo (2nd).
+</details>
+<p class="story-state"><strong>Story state:</strong> `the filled room gets a price → the priced room becomes a chosen stage`.</p>
