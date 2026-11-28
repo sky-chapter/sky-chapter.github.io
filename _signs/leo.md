@@ -4,16 +4,13 @@ sign_name: Leo
 glyph: "♌"
 element: fire
 order: 5
-mask: "the star"
-date: 2026-11-28
+mask: "the stage"
+date: 2026-11-29
 og_image: /assets/og-leo.png
 ---
 
-- **Started as:** the quiet entrance filled the room — the star took the measure.
-- **On the road:** [Jupiter still holds your 1st](/signs/leo) at 26°40′, [conjunct Mars](/notes/aspects) in your 2nd at 4.14° — the glow is yours, the engine is pricing the take next door, and the bridge stretches but does not break. Your ruler the [Sun sits at 5°45′ Sagittarius](/signs/sagittarius) in your 5th: he squares Mars (4.96°) and trines [retrograde Saturn](/notes/retrograde) in your 9th (2.33°) — the stage argues, patience backs it more firmly than yesterday. Venus sextiles Jupiter at 0.22° from your 3rd — one kind word, almost exactly timed, does more than one big entrance. The Moon, now at 23° Cancer in your 12th, has left the exact square behind: the test happens backstage, and it's over.
-- **Turning into:** the star prices the glow — the entrance becomes an offer.
-<details class="profi"><summary>Profi (tap)</summary>
-
-Jupiter 26°40′ Leo (1st, ruler; [conjunction](/notes/aspects) Mars 4.14°, sextile Venus 0.22°) · Mars 0°47′ Virgo (2nd) · Sun 5°45′ Sagittarius (5th, ruler; square Mars 4.96°, trine Saturn 2.33°) · Moon 23°05′ Cancer (12th, 83.9%).
-</details>
-<p class="story-state"><strong>Story state:</strong> `the quiet entrance also fills the room → the filled room gets a price`.</p>
+- **Started as:** Stepping into the warm morning spotlight with dramatic flair.
+- **On the road:** The Moon at 7.62° Leo illuminates the sign at 74.4 percent, forming an exact trine separation of 119.56 degrees (orb 0.44) to Saturn at 8.06° Aries, while Jupiter rests nearby at 26.70° Leo.
+- **Turning into:** A charismatic leader who blends theatrical joy with disciplined follow-through.
+- **Profi (tap):** <details class="profi"><summary>Profi (tap)</summary>Moon is at 7.62° Leo (direct, 74.4% illumination), forming a trine separation of 119.56° (orb 0.44) with Saturn at 8.06° Aries (retrograde). Jupiter sits at 26.70° Leo (direct). Visit </signs/leo> and </notes/aspects>.</details>
+<p class="story-state"><strong>Story state:</strong> Seeking applause shifting toward building a lasting legacy → performing with profound purpose.</p>
